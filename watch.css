@@ -1,9 +1,4 @@
-#ac-localnav {
-    font-weight: normal;
-    text-size-adjust: 100%
-}
-
-#ac-localnav,
+/* #ac-localnav,
 #ac-localnav:before,
 #ac-localnav:after,
 #ac-localnav *,
@@ -1437,4 +1432,4 @@ h3 #ac-localnav sup {
     top: -1px;
     color: #000;
     opacity: .56;
-}
+} */
