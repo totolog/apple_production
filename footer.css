@@ -793,35 +793,36 @@ h1 #ac-globalfooter sup, h2 #ac-globalfooter sup, h3 #ac-globalfooter sup {
     padding:17px 0 11px
 }
 
-.ac-theme-dark #ac-globalfooter .ac-gf-sosumi, #ac-globalfooter.ac-globalfooter-dark .ac-gf-sosumi {
+.ac-theme-dark #ac-globalfooter .ac-gf-sosumi,
+#ac-globalfooter.ac-globalfooter-dark .ac-gf-sosumi {
     border-color: #424245;
     color:#6e6e73
 }
 
-#ac-globalfooter .ac-gf-sosumi ol {
+/* #ac-globalfooter .ac-gf-sosumi ol {
     list-style-position: outside;
     margin: 0;
     padding:0 17px
-}
+} */
 
-#ac-globalfooter .ac-gf-sosumi ol li {
+/* #ac-globalfooter .ac-gf-sosumi ol li {
     list-style-type:decimal
-}
+} */
 
 #ac-globalfooter .ac-gf-sosumi ul {
     list-style: none;
     margin:0
 }
 
-#ac-globalfooter .ac-gf-sosumi li {
+/* #ac-globalfooter .ac-gf-sosumi li {
     padding-bottom:0.8em
-}
+} */
 
 #ac-globalfooter .ac-gf-sosumi p, #ac-globalfooter .ac-gf-sosumi li {
     font-size: 12px;
-    line-height: 1.33337;
+    /* line-height: 1.33337;
     font-weight: 400;
-    letter-spacing: -.01em;
+    letter-spacing: -.01em; */
 }
 
 #ac-globalfooter .ac-gf-sosumi small {
@@ -1346,10 +1347,10 @@ h1 #ac-globalfooter sup, h2 #ac-globalfooter sup, h3 #ac-globalfooter sup {
 #ac-globalfooter .ac-gf-buystrip + .ac-gf-footer {
     border-top:none
 }
-
+/* 
 #ac-globalfooter .ac-gf-sosumi + .ac-gf-footer {
     border-top:none
-}
+} */
 
 @media only screen and (max-width: 767px) {
     #ac-globalfooter .ac-gf-breadcrumbs + .ac-gf-footer {

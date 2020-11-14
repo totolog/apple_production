@@ -1,26 +1,41 @@
 @media only screen and (max-width: 734px) {
+	.section.section-models .tile-content {
+		order: 2;
+	}
 	.section-shared-compare .compare-item-se .compare-item-image {
 		width: 126px;
 		height: 150px;
 		background-size: 126px 150px;
-		background-image: url("img/compare_se__crebhd9hhdea_small.jpg");
-    }
-    .section-shared-compare .compare-item-se .compare-item-image {
 		background-image: url("img/compare_se__crebhd9hhdea_small_2x.jpg");
     }
+    /* .section-shared-compare .compare-item-se .compare-item-image {
+		background-image: url("img/compare_se__crebhd9hhdea_small_2x.jpg");
+    } */
     .section-shared-compare .compare-item-series-3 .compare-item-image {
 		width: 120px;
 		height: 150px;
 		background-size: 120px 150px;
-		background-image: url("img/compare_s3__clzj8ukygo5e_small.jpg");
+		background-image: url("img/compare_s3__clzj8ukygo5e_small_2x.jpg");
     }
     .section-shared-compare .compare-item-series-6 .compare-item-image {
 		width: 130px;
 		height: 150px;
 		background-size: 130px 150px;
-		background-image: url("img/compare_s6__evsi0wlzp4ya_small.jpg");
-    }
-    body.page-nike
+		background-image: url("img/compare_s6__evsi0wlzp4ya_small_2x.jpg");
+	}
+	.image-se {
+		background-size: contain;
+	}
+	.section-shared-compare .compare-item-se .feature-retina {
+		margin-bottom: 0;
+		padding-top: 20px;
+	}
+
+	.section-shared-compare .feature-heart-rate {
+		padding-top: 20px;
+		margin-bottom: 20px;
+	}
+    /* body.page-nike
 		.section-shared-compare
 		.compare-item-series-6
 		.compare-item-image {
@@ -30,8 +45,8 @@
     body.page-nike .section-shared-compare .compare-item-se .compare-item-image {
 		background-size: 127px 152px;
 		background-image: url("img/compare_nike_se__ge8v73rsxvyq_small.jpg");
-    }
-    .section-compare-expanded .compare-item-series-6 .compare-item-image {
+    } */
+    /* .section-compare-expanded .compare-item-series-6 .compare-item-image {
 		background-image: url("img/light_s6__cfkta09zb02q_small.jpg");
     }
     .section-compare-expanded .compare-item-se .compare-item-image {
@@ -39,14 +54,14 @@
     }
     .section-compare-expanded .compare-item-series-3 .compare-item-image {
 		background-image: url("img/light_s3__4viszm45e6aa_small.jpg");
-    }
-    .section-compare-expanded .compare-item-nike .compare-item-image {
+    } */
+    /* .section-compare-expanded .compare-item-nike .compare-item-image {
 		background-image: url("img/light_nike__fkga41wbp4i2_small.jpg");
-    }
-    .section-compare-expanded .compare-item-hermes .compare-item-image {
+    } */
+    /* .section-compare-expanded .compare-item-hermes .compare-item-image {
 		background-image: url("img/light_hermes__e15p1ebs58wi_small.jpg");
-    }
-    .page-hermes .section-configure-wrapper .configure-item-case {
+    } */
+    /* .page-hermes .section-configure-wrapper .configure-item-case {
 		background-size: 200px 316px;
 		background-image: url("img/hermes-cto-case__dgg4277i9oa6_small.png");
     }
@@ -81,10 +96,10 @@
 		height: 316px;
 		background-size: 200px 316px;
 		background-image: url("img/s6-cto-case__fa0yi0iqnfyq_small.png");
-    }
-    span.jp-headline-adjust.only-large-reject {
+    } */
+    /* span.jp-headline-adjust.only-large-reject {
 		margin-right: -0.4em;
-	}
+	} */
 	span.jp-headline-adjust.small-reject {
 		margin-right: 0;
     }
@@ -117,9 +132,9 @@
 	.section-more .tile-one .tile-content {
 		width: 100%;
     }
-    .section-trade .text-block .headline-sosumi {
+    /* .section-trade .text-block .headline-sosumi {
 		margin-left: -10px;
-    }
+    } */
     .tile-discount .tile-content-wrapper {
 		width: 100%;
 	}
@@ -127,46 +142,54 @@
 		width: 100%;
 		padding: 58px 0 36px;
     }
-    .section-more .tile-one .tile-image .image-one {
+    /* .section-more .tile-one .tile-image .image-one {
 		background-image: url("img/tile_apple_one__dv857y6v8dyu_small_2x.jpg");
-    }
+    } */
     .section-more .tile-one .tile-image .image-one {
 		width: 205px;
 		height: 182px;
 		background-size: 205px 182px;
-		background-image: url("img/tile_apple_one__dv857y6v8dyu_small.jpg");
+		background-image: url("img/tile_apple_one__dv857y6v8dyu_small_2x.jpg");
     }
-    .tile-power-of-plus .image-power-of-plus {
+    /* .tile-power-of-plus .image-power-of-plus {
 		background-image: url("img/tile_power_of_plus__lmyedbcfwtei_small_2x.jpg");
     }
     .tile-power-of-plus .image-power-of-plus {
 		background-size: 414px 293px;
 		background-image: url("img/tile_power_of_plus__lmyedbcfwtei_small.jpg");
-    }
+    } */
     .image-series-6 {
 		background-size: 224px 318px;
 		background-image: url("img/tile_watch_s6__bbw92knen8mq_small.jpg");
     }
-    .tile-why-watch .image-why-watch {
+    /* .tile-why-watch .image-why-watch {
 		background-size: 595px 344px;
 		background-image: url("img/tile_why_watch__bzxlfokkvj36_small.jpg");
-    }
+    } */
     .section-options .tile-wwdc .tile-image .image-wwdc {
 		background-size: 414px 611px;
-		background-image: url("img/tile_watchos7__fs1gp8e4poq6_small.jpg");
+		background-image: url("img/tile_watchos7__fs1gp8e4poq6_small_2x.jpg");
     }
     .section-more .tile-apple-pay {
 		padding: 52px 0 0;
-    }
-    .section-more .tile-apple-pay .violator {
-		margin-bottom: 30px;
 	}
+	.section-more .tile-apple-pay .tile-content {
+		width: 100%;
+	}
+	.section-more .tile-apple-pay .tile-content .tile-content-wrapper {
+		padding-right: 5%;
+		padding-left: 5%;
+
+	}
+    /* .section-more .tile-apple-pay .violator {
+		margin-bottom: 30px;
+	} */
     .section-more .tile-apple-pay .image-apple-pay-logo {
 		width: 54px;
 		height: 23px;
 		background-size: 54px 23px;
 		background-repeat: no-repeat;
-		background-image: url("img/logo__b983zltyih5y_small.png");
+		background-image: url("img/logo__b983zltyih5y_small_2x.png");
     }
     .section-more .tile-apple-pay .tile-image {
 		padding-left: 0;
@@ -176,35 +199,41 @@
 		height: 418px;
 		background-size: 414px 418px;
 		background-repeat: no-repeat;
-		background-image: url("img/tile__b1uni0uggqia_small.jpg");
+		background-image: url("img/tile__b1uni0uggqia_small_2x.jpg");
     }
     .tile-apple-pay .tile-subheadline {
 		margin: 20px 0 0;
 		max-width: 100%;
-    }
-    .holiday-2020__image {
+		font-size: 2rem;
+		font-weight: 900;
+	}
+	.typography-tile-copy {
+		font-size: 15px;
+		margin-top: 10px;
+	}
+    /* .holiday-2020__image {
 		width: 339px;
 		height: 326px;
 		background-size: 339px 326px;
 		background-repeat: no-repeat;
 		background-image: url("img/aos_holiday_watch_family_hero__d6nskvoyidqq_small.jpg");
-    }
+    } */
     .holiday-2020__image {
 		background-repeat: no-repeat;
-		background-image: url("img/aos_holiday_watch_family_hero__d6nskvoyidqq_large.jpg");
+		background-image: url("img/aos_holiday_watch_family_hero__d6nskvoyidqq_small_2x.jpg");
 		background-size: contain;
 		width: 90%;
 		height: auto;
 		margin: 58px auto 0;
     }
-    .holiday-2020__image::after {
+    /* .holiday-2020__image::after {
 		content: "";
 		display: block;
 		padding-bottom: 29.62669%;
-    }
-    .section-more .tile-apple-pay .tile-content {
+    } */
+    /* .section-more .tile-apple-pay .tile-content {
 		width: 100%;
-	}
+	} */
 
 
 }

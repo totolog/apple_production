@@ -76,97 +76,6 @@ html {
     quotes: "“" "”"
 }
 
-[lang]:lang(ar) {
-    font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-[lang]:lang(ja) {
-    font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons", "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-[lang]:lang(ko) {
-    font-family: "SF Pro KR", "SF Pro Text", "SF Pro Icons", "Apple Gothic", "HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-[lang]:lang(th) {
-    font-family: "SF Pro TH", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-[lang]:lang(zh-CN) {
-    font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-[lang]:lang(zh-HK) {
-    font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-[lang]:lang(zh-MO) {
-    font-family: "SF Pro HK", "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-[lang]:lang(zh-TW) {
-    font-family: "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang TC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-:lang(cs) {
-    quotes: "„" "“"
-}
-
-:lang(de) {
-    quotes: "„" "“"
-}
-
-:lang(de-CH) {
-    quotes: "«" "»"
-}
-
-:lang(de-LI) {
-    quotes: "«" "»"
-}
-
-:lang(fr) {
-    quotes: "« " " »"
-}
-
-:lang(fr-CH) {
-    quotes: "«" "»"
-}
-
-:lang(es-ES) {
-    quotes: "«" "»"
-}
-
-:lang(hu) {
-    quotes: "„" "“"
-}
-
-:lang(ja-JP) {
-    quotes: "「" "」"
-}
-
-:lang(no-NO) {
-    quotes: "«" "»"
-}
-
-:lang(lt) {
-    quotes: "„" "“"
-}
-
-:lang(pl) {
-    quotes: "„" "“"
-}
-
-:lang(ru) {
-    quotes: "« " " »"
-}
-
-:lang(zh) {
-    quotes: "「" "」"
-}
-
-:lang(zh-CN) {
-    quotes: "“" "”"
-}
 
 body {
     font-size: 17px;
@@ -179,48 +88,6 @@ body {
     font-style:normal
 }
 
-body:lang(ar) {
-    line-height: 1.58824;
-    letter-spacing: 0em;
-    font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-body:lang(ja) {
-    letter-spacing: 0em;
-    font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons", "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-body:lang(ko) {
-    line-height: 1.58824;
-    letter-spacing: 0em;
-    font-family: "SF Pro KR", "SF Pro Text", "SF Pro Icons", "Apple Gothic", "HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-body:lang(zh) {
-    letter-spacing:0em
-}
-
-body:lang(th) {
-    line-height: 1.35296;
-    letter-spacing: 0em;
-    font-family: "SF Pro TH", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-body:lang(zh-CN) {
-    font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-body:lang(zh-HK) {
-    font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-body:lang(zh-MO) {
-    font-family: "SF Pro HK", "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-body:lang(zh-TW) {
-    font-family: "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang TC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
 
 body, input, textarea, select, button {
     font-synthesis: none;
@@ -406,14 +273,6 @@ sub.footnote-reduced {
 
 abbr {
     border:0
-}
-
-:lang(ja), :lang(ko), :lang(th), :lang(zh) {
-    font-style:normal
-}
-
-:lang(ko) {
-    word-break:keep-all
 }
 
 .justify-content-start {
@@ -2039,44 +1898,6 @@ a.block-inline {
     border-radius:28px
 }
 
-.button-super:lang(ar) {
-    letter-spacing: 0em;
-    font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.button-super:lang(ja) {
-    letter-spacing: 0em;
-    font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons", "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.button-super:lang(ko) {
-    letter-spacing: 0em;
-    font-family: "SF Pro KR", "SF Pro Text", "SF Pro Icons", "Apple Gothic", "HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.button-super:lang(zh) {
-    letter-spacing:0em
-}
-
-.button-super:lang(th) {
-    font-family: "SF Pro TH", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.button-super:lang(zh-CN) {
-    font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.button-super:lang(zh-HK) {
-    font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.button-super:lang(zh-MO) {
-    font-family: "SF Pro HK", "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.button-super:lang(zh-TW) {
-    font-family: "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang TC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
 
 .button-super.button-block {
     border-radius:12px
@@ -2087,7 +1908,6 @@ a.block-inline {
     line-height: 1.17648;
     font-weight: 400;
     letter-spacing: -.022em;
-    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
     min-width: 26px;
     padding-left: 22px;
     padding-right: 22px;
@@ -2096,44 +1916,6 @@ a.block-inline {
     border-radius:22px
 }
 
-.button-elevated:lang(ar) {
-    letter-spacing: 0em;
-    font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.button-elevated:lang(ja) {
-    letter-spacing: 0em;
-    font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons", "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.button-elevated:lang(ko) {
-    letter-spacing: 0em;
-    font-family: "SF Pro KR", "SF Pro Text", "SF Pro Icons", "Apple Gothic", "HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.button-elevated:lang(zh) {
-    letter-spacing:0em
-}
-
-.button-elevated:lang(th) {
-    font-family: "SF Pro TH", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.button-elevated:lang(zh-CN) {
-    font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.button-elevated:lang(zh-HK) {
-    font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.button-elevated:lang(zh-MO) {
-    font-family: "SF Pro HK", "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.button-elevated:lang(zh-TW) {
-    font-family: "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang TC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
 
 .button-elevated.button-block {
     border-radius:10px
@@ -2144,52 +1926,12 @@ a.block-inline {
     line-height: 1.33337;
     font-weight: 400;
     letter-spacing: -.01em;
-    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
     min-width: 23px;
     padding-left: 11px;
     padding-right: 11px;
     padding-top: 4px;
     padding-bottom: 4px;
     border-radius:12px
-}
-
-.button-reduced:lang(ar) {
-    letter-spacing: 0em;
-    font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.button-reduced:lang(ja) {
-    letter-spacing: 0em;
-    font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons", "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.button-reduced:lang(ko) {
-    letter-spacing: 0em;
-    font-family: "SF Pro KR", "SF Pro Text", "SF Pro Icons", "Apple Gothic", "HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.button-reduced:lang(zh) {
-    letter-spacing:0em
-}
-
-.button-reduced:lang(th) {
-    font-family: "SF Pro TH", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.button-reduced:lang(zh-CN) {
-    font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.button-reduced:lang(zh-HK) {
-    font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.button-reduced:lang(zh-MO) {
-    font-family: "SF Pro HK", "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.button-reduced:lang(zh-TW) {
-    font-family: "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang TC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
 }
 
 .button-reduced.button-block {
@@ -2340,10 +2082,6 @@ html.touch .paddlenav .paddlenav-arrow:disabled, html.touch .paddlenav .paddlena
     display:none
 }
 
-.paddlenav .paddlenav-arrow-next::before, .paddlenav .paddlenav-arrow-next::after {
-    content: ""
-}
-
 .paddlenav .paddlenav-arrow-next::after {
     margin-right:-.056em
 }
@@ -2370,9 +2108,6 @@ html.touch .paddlenav .paddlenav-arrow:disabled, html.touch .paddlenav .paddlena
     display:none
 }
 
-.paddlenav .paddlenav-arrow-previous::before, .paddlenav .paddlenav-arrow-previous::after {
-    content: ""
-}
 
 .paddlenav .paddlenav-arrow-previous::after {
     margin-left:-.056em
@@ -2399,11 +2134,6 @@ html.touch .paddlenav .paddlenav-arrow:disabled, html.touch .paddlenav .paddlena
 .paddlenav .paddlenav-arrow-up::before {
     display:none
 }
-
-.paddlenav .paddlenav-arrow-up::before, .paddlenav .paddlenav-arrow-up::after {
-    content: ""
-}
-
 .paddlenav .paddlenav-arrow-down::before, .paddlenav .paddlenav-arrow-down::after {
     font-family: "SF Pro Icons";
     color: inherit;
@@ -2425,11 +2155,6 @@ html.touch .paddlenav .paddlenav-arrow:disabled, html.touch .paddlenav .paddlena
 .paddlenav .paddlenav-arrow-down::before {
     display:none
 }
-
-.paddlenav .paddlenav-arrow-down::before, .paddlenav .paddlenav-arrow-down::after {
-    content: ""
-}
-
 .paddlenav .paddlenav-arrow {
     background-color: rgba(0, 0, 0, 0);
     color:rgba(134, 134, 139, 0.8)
@@ -2511,10 +2236,6 @@ html.touch .paddlenav .paddlenav-arrow:disabled, html.touch .paddlenav .paddlena
         display:none
     }
 
-    .paddlenav .paddlenav-arrow-next::before, .paddlenav .paddlenav-arrow-next::after {
-        content: ""
-    }
-
     .paddlenav .paddlenav-arrow-next::after {
         margin-right:-.044em
     }
@@ -2539,10 +2260,6 @@ html.touch .paddlenav .paddlenav-arrow:disabled, html.touch .paddlenav .paddlena
 
     .paddlenav .paddlenav-arrow-previous::before {
         display:none
-    }
-
-    .paddlenav .paddlenav-arrow-previous::before, .paddlenav .paddlenav-arrow-previous::after {
-        content: ""
     }
 
     .paddlenav .paddlenav-arrow-previous::after {
@@ -2571,10 +2288,6 @@ html.touch .paddlenav .paddlenav-arrow:disabled, html.touch .paddlenav .paddlena
         display:none
     }
 
-    .paddlenav .paddlenav-arrow-up::before, .paddlenav .paddlenav-arrow-up::after {
-        content: ""
-    }
-
     .paddlenav .paddlenav-arrow-down::before, .paddlenav .paddlenav-arrow-down::after {
         font-family: "SF Pro Icons";
         color: inherit;
@@ -2595,10 +2308,6 @@ html.touch .paddlenav .paddlenav-arrow:disabled, html.touch .paddlenav .paddlena
 
     .paddlenav .paddlenav-arrow-down::before {
         display:none
-    }
-
-    .paddlenav .paddlenav-arrow-down::before, .paddlenav .paddlenav-arrow-down::after {
-        content: ""
     }
 }
 
@@ -2641,9 +2350,6 @@ html.touch .paddlenav .paddlenav-arrow:disabled, html.touch .paddlenav .paddlena
     display:none
 }
 
-.paddlenav-compact .paddlenav-arrow-next::before, .paddlenav-compact .paddlenav-arrow-next::after {
-    content: ""
-}
 
 .paddlenav-compact .paddlenav-arrow-next::after {
     margin-right:-.044em
@@ -2669,10 +2375,6 @@ html.touch .paddlenav .paddlenav-arrow:disabled, html.touch .paddlenav .paddlena
 
 .paddlenav-compact .paddlenav-arrow-previous::before {
     display:none
-}
-
-.paddlenav-compact .paddlenav-arrow-previous::before, .paddlenav-compact .paddlenav-arrow-previous::after {
-    content: ""
 }
 
 .paddlenav-compact .paddlenav-arrow-previous::after {
@@ -2701,10 +2403,6 @@ html.touch .paddlenav .paddlenav-arrow:disabled, html.touch .paddlenav .paddlena
     display:none
 }
 
-.paddlenav-compact .paddlenav-arrow-up::before, .paddlenav-compact .paddlenav-arrow-up::after {
-    content: ""
-}
-
 .paddlenav-compact .paddlenav-arrow-down::before, .paddlenav-compact .paddlenav-arrow-down::after {
     font-family: "SF Pro Icons";
     color: inherit;
@@ -2727,9 +2425,6 @@ html.touch .paddlenav .paddlenav-arrow:disabled, html.touch .paddlenav .paddlena
     display:none
 }
 
-.paddlenav-compact .paddlenav-arrow-down::before, .paddlenav-compact .paddlenav-arrow-down::after {
-    content: ""
-}
 
 .paddlenav-framed .paddlenav-arrow {
     background-color: rgba(210, 210, 215, 0.2);
@@ -2804,58 +2499,13 @@ html.no-touch .with-paddlenav-onhover .paddlenav-arrow:disabled, html.no-touch .
     -webkit-clip-path: none;
     clip-path:none
 }
-
+/* 
 .sosumi {
     font-size: 12px;
     line-height: 1.33337;
     font-weight: 400;
     letter-spacing: -.01em;
-    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
     color:#86868b
-}
-
-.sosumi:lang(ar) {
-    line-height: 1.66667;
-    letter-spacing: 0em;
-    font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.sosumi:lang(ja) {
-    line-height: 1.41667;
-    letter-spacing: 0em;
-    font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons", "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.sosumi:lang(ko) {
-    line-height: 1.41667;
-    letter-spacing: 0em;
-    font-family: "SF Pro KR", "SF Pro Text", "SF Pro Icons", "Apple Gothic", "HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.sosumi:lang(zh) {
-    letter-spacing:0em
-}
-
-.sosumi:lang(th) {
-    line-height: 1.33337;
-    letter-spacing: 0em;
-    font-family: "SF Pro TH", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.sosumi:lang(zh-CN) {
-    font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.sosumi:lang(zh-HK) {
-    font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.sosumi:lang(zh-MO) {
-    font-family: "SF Pro HK", "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.sosumi:lang(zh-TW) {
-    font-family: "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang TC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
 }
 
 .sosumi * {
@@ -2887,7 +2537,7 @@ html.no-touch .with-paddlenav-onhover .paddlenav-arrow:disabled, html.no-touch .
 
 .sosumi a {
     color:#515154
-}
+} */
 
 .violator {
     box-sizing: border-box;
@@ -2908,46 +2558,7 @@ html.no-touch .with-paddlenav-onhover .paddlenav-arrow:disabled, html.no-touch .
     padding-top: 7px;
     padding-bottom:7px
 }
-
-.violator:lang(ar) {
-    letter-spacing: 0em;
-    font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.violator:lang(ja) {
-    letter-spacing: 0em;
-    font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons", "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.violator:lang(ko) {
-    letter-spacing: 0em;
-    font-family: "SF Pro KR", "SF Pro Text", "SF Pro Icons", "Apple Gothic", "HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.violator:lang(zh) {
-    letter-spacing:0em
-}
-
-.violator:lang(th) {
-    font-family: "SF Pro TH", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.violator:lang(zh-CN) {
-    font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.violator:lang(zh-HK) {
-    font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.violator:lang(zh-MO) {
-    font-family: "SF Pro HK", "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.violator:lang(zh-TW) {
-    font-family: "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang TC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
+/* 
 .violator-inline {
     margin-left: 10px;
     display:inline-block
@@ -2972,44 +2583,6 @@ html.no-touch .with-paddlenav-onhover .paddlenav-arrow:disabled, html.no-touch .
     padding-bottom:3px
 }
 
-.violator-reduced:lang(ar) {
-    letter-spacing: 0em;
-    font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.violator-reduced:lang(ja) {
-    letter-spacing: 0em;
-    font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons", "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.violator-reduced:lang(ko) {
-    letter-spacing: 0em;
-    font-family: "SF Pro KR", "SF Pro Text", "SF Pro Icons", "Apple Gothic", "HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.violator-reduced:lang(zh) {
-    letter-spacing:0em
-}
-
-.violator-reduced:lang(th) {
-    font-family: "SF Pro TH", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.violator-reduced:lang(zh-CN) {
-    font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.violator-reduced:lang(zh-HK) {
-    font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.violator-reduced:lang(zh-MO) {
-    font-family: "SF Pro HK", "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.violator-reduced:lang(zh-TW) {
-    font-family: "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang TC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
 
 .violator-reduced.violator-inline {
     margin-left: 6px;
@@ -3042,49 +2615,10 @@ html.no-touch .with-paddlenav-onhover .paddlenav-arrow:disabled, html.no-touch .
     display:block
 }
 
-.violator-frameless.violator-frameless-reduced:lang(ar) {
-    letter-spacing: 0em;
-    font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.violator-frameless.violator-frameless-reduced:lang(ja) {
-    letter-spacing: 0em;
-    font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons", "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.violator-frameless.violator-frameless-reduced:lang(ko) {
-    letter-spacing: 0em;
-    font-family: "SF Pro KR", "SF Pro Text", "SF Pro Icons", "Apple Gothic", "HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.violator-frameless.violator-frameless-reduced:lang(zh) {
-    letter-spacing:0em
-}
-
-.violator-frameless.violator-frameless-reduced:lang(th) {
-    font-family: "SF Pro TH", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.violator-frameless.violator-frameless-reduced:lang(zh-CN) {
-    font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.violator-frameless.violator-frameless-reduced:lang(zh-HK) {
-    font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.violator-frameless.violator-frameless-reduced:lang(zh-MO) {
-    font-family: "SF Pro HK", "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.violator-frameless.violator-frameless-reduced:lang(zh-TW) {
-    font-family: "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang TC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
 .violator-frameless.violator-frameless-reduced.violator-frameless-inline {
     margin-left: 6px;
     display:inline-block
-}
+} */
 
 br.large {
     display:block
@@ -3206,49 +2740,6 @@ br.small {
     font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
 }
 
-.ribbon .ribbon-content:lang(ar) {
-    line-height: 1.57143;
-    letter-spacing: 0em;
-    font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.ribbon .ribbon-content:lang(ja) {
-    letter-spacing: 0em;
-    font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons", "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.ribbon .ribbon-content:lang(ko) {
-    line-height: 1.57143;
-    letter-spacing: 0em;
-    font-family: "SF Pro KR", "SF Pro Text", "SF Pro Icons", "Apple Gothic", "HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.ribbon .ribbon-content:lang(zh) {
-    letter-spacing:0em
-}
-
-.ribbon .ribbon-content:lang(th) {
-    line-height: 1.35718;
-    letter-spacing: 0em;
-    font-family: "SF Pro TH", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.ribbon .ribbon-content:lang(zh-CN) {
-    font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.ribbon .ribbon-content:lang(zh-HK) {
-    font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.ribbon .ribbon-content:lang(zh-MO) {
-    font-family: "SF Pro HK", "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.ribbon .ribbon-content:lang(zh-TW) {
-    font-family: "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang TC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
 .ribbon .ribbon-content-wrapper {
     background-color:var(--ribbon-background-color)
 }
@@ -3274,48 +2765,6 @@ br.small {
     font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
 }
 
-.ribbon-elevated .ribbon-content:lang(ar) {
-    line-height: 1.58824;
-    letter-spacing: 0em;
-    font-family: "SF Pro AR", "SF Pro Gulf", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.ribbon-elevated .ribbon-content:lang(ja) {
-    letter-spacing: 0em;
-    font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons", "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.ribbon-elevated .ribbon-content:lang(ko) {
-    line-height: 1.58824;
-    letter-spacing: 0em;
-    font-family: "SF Pro KR", "SF Pro Text", "SF Pro Icons", "Apple Gothic", "HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.ribbon-elevated .ribbon-content:lang(zh) {
-    letter-spacing:0em
-}
-
-.ribbon-elevated .ribbon-content:lang(th) {
-    line-height: 1.35296;
-    letter-spacing: 0em;
-    font-family: "SF Pro TH", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.ribbon-elevated .ribbon-content:lang(zh-CN) {
-    font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.ribbon-elevated .ribbon-content:lang(zh-HK) {
-    font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.ribbon-elevated .ribbon-content:lang(zh-MO) {
-    font-family: "SF Pro HK", "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
-
-.ribbon-elevated .ribbon-content:lang(zh-TW) {
-    font-family: "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang TC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-}
 
 .ribbon-blue {
     --ribbon-background-color: #0071e3;
@@ -3616,7 +3065,6 @@ br.small {
         line-height: 1.15;
         font-weight: 600;
         letter-spacing: .009em;
-        font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
     }
 
 }
@@ -3627,7 +3075,6 @@ br.small {
         line-height: 1.15;
         font-weight: 600;
         letter-spacing: .009em;
-        font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
     }
 }
 
@@ -3636,7 +3083,6 @@ br.small {
     line-height: 1.0625;
     font-weight: 700;
     letter-spacing: -.009em;
-    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
 }
 
 @media only screen and (max-width: 1068px) {
@@ -3645,7 +3091,6 @@ br.small {
         line-height: 1.09091;
         font-weight: 700;
         letter-spacing: -.002em;
-        font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
     }
 
 }
@@ -4672,7 +4117,7 @@ html.no-js .buystrip-item-cta-chat {
 
 @media only screen and (max-width: 734px) {
     .tile-content-wrapper {
-        width:unset
+        width:unset;
     }
 }
 
@@ -5290,7 +4735,8 @@ html.no-svg .chapternav-item-fitness .chapternav-icon {
 @media only screen and (max-width: 734px) {
     .section.section-models .tile.tile-se .tile-image {
         padding-right: 0;
-        margin-bottom:50px
+        margin-bottom:50px;
+        width: 100%;
     }
 }
 
@@ -5476,27 +4922,17 @@ html.no-svg .chapternav-item-fitness .chapternav-icon {
     background-image: url("img/tile_watch_s6__bbw92knen8mq_large.jpg")
 }
 
-@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and(min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
+/* @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and(min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
     .image-series-6 {
         background-image: url("img/tile_watch_s6__bbw92knen8mq_large_2x.jpg")
     }
-}
+} */
 
-@media only screen and (max-width: 1068px) {
-    .image-series-6 {
-        width: 227px;
-        height: 323px;
-        background-size: 227px 323px;
-        background-repeat: no-repeat;
-        background-image: url("img/tile_watch_s6__bbw92knen8mq_medium.jpg")
-    }
-}
-
-@media only screen and (max-width: 1068px) and(-webkit-min-device-pixel-ratio: 1.5), only screen and(max-width: 1068px) and(min-resolution: 1.5dppx), only screen and(max-width: 1068px) and(min-resolution: 144dpi) {
+/* @media only screen and (max-width: 1068px) and(-webkit-min-device-pixel-ratio: 1.5), only screen and(max-width: 1068px) and(min-resolution: 1.5dppx), only screen and(max-width: 1068px) and(min-resolution: 144dpi) {
     .image-series-6 {
         background-image: url("img/tile_watch_s6__bbw92knen8mq_medium_2x.jpg")
     }
-}
+} */
 
 @media only screen and (max-width: 734px) {
     .image-series-6 {
@@ -5562,7 +4998,6 @@ html.no-svg .chapternav-item-fitness .chapternav-icon {
         line-height: 1.21053;
         font-weight: 600;
         letter-spacing: .012em;
-        font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
         font-weight:400
     }
 }
@@ -5573,7 +5008,6 @@ html.no-svg .chapternav-item-fitness .chapternav-icon {
         line-height: 1.1;
         font-weight: 600;
         letter-spacing: 0em;
-        font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
     }
 
 }
@@ -5584,7 +5018,6 @@ html.no-svg .chapternav-item-fitness .chapternav-icon {
         line-height: 1.125;
         font-weight: 600;
         letter-spacing: .004em;
-        font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
     }
 }
 
@@ -5594,7 +5027,6 @@ html.no-svg .chapternav-item-fitness .chapternav-icon {
         line-height: 1.14286;
         font-weight: 600;
         letter-spacing: .007em;
-        font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
     }
 }
 
@@ -5848,7 +5280,7 @@ html.no-svg .chapternav-item-fitness .chapternav-icon {
 @media only screen and (max-width: 734px) {
     .holiday-2020 {
         flex-direction: column;
-        padding:63px 0 71px
+        padding:4rem 3rem;
     }
 }
 
@@ -6038,7 +5470,7 @@ html.no-svg .chapternav-item-fitness .chapternav-icon {
     .holiday-2020__image::after {
         content: '';
         display: block;
-        padding-bottom:29.62669%
+        padding-bottom: 96.16519%;
     }
 }
 
@@ -6692,21 +6124,21 @@ html.no-svg .chapternav-item-fitness .chapternav-icon {
     }
 }
 
-.tile-power-of-plus .image-power-of-plus-logo {
+/* .tile-power-of-plus .image-power-of-plus-logo {
     width: 390px;
     height: 38px;
     background-size: 390px 38px;
     background-repeat: no-repeat;
     background-image: url("img/power_of_plus_tile_logo__dnpit83euac2_large.png")
-}
+} */
 
-@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and(min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
+/* @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and(min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
     .tile-power-of-plus .image-power-of-plus-logo {
         background-image: url("img/power_of_plus_tile_logo__dnpit83euac2_large_2x.png")
     }
-}
+} */
 
-@media only screen and (max-width: 1068px) {
+/* @media only screen and (max-width: 1068px) {
     .tile-power-of-plus .image-power-of-plus-logo {
         width: 270px;
         height: 28px;
@@ -6714,13 +6146,13 @@ html.no-svg .chapternav-item-fitness .chapternav-icon {
         background-repeat: no-repeat;
         background-image: url("img/power_of_plus_tile_logo__dnpit83euac2_medium.png")
     }
-}
+} */
 
-@media only screen and (max-width: 1068px) and(-webkit-min-device-pixel-ratio: 1.5), only screen and(max-width: 1068px) and(min-resolution: 1.5dppx), only screen and(max-width: 1068px) and(min-resolution: 144dpi) {
+/* @media only screen and (max-width: 1068px) and(-webkit-min-device-pixel-ratio: 1.5), only screen and(max-width: 1068px) and(min-resolution: 1.5dppx), only screen and(max-width: 1068px) and(min-resolution: 144dpi) {
     .tile-power-of-plus .image-power-of-plus-logo {
         background-image: url("img/power_of_plus_tile_logo__dnpit83euac2_medium_2x.png")
     }
-}
+} */
 
 .tile-power-of-plus .tile-image {
     align-items: flex-end;
@@ -6747,21 +6179,21 @@ html.no-svg .chapternav-item-fitness .chapternav-icon {
     }
 }
 
-.tile-power-of-plus .image-power-of-plus {
+/* .tile-power-of-plus .image-power-of-plus {
     width: 535px;
     height: 459px;
     background-size: 535px 459px;
     background-repeat: no-repeat;
     background-image: url("img/tile_power_of_plus__lmyedbcfwtei_large.jpg")
-}
+} */
 
-@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and(min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
+/* @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and(min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
     .tile-power-of-plus .image-power-of-plus {
         background-image: url("img/tile_power_of_plus__lmyedbcfwtei_large_2x.jpg")
     }
-}
+} */
 
-@media only screen and (max-width: 1068px) {
+/* @media only screen and (max-width: 1068px) {
     .tile-power-of-plus .image-power-of-plus {
         width: 362px;
         height: 317px;
@@ -6769,15 +6201,15 @@ html.no-svg .chapternav-item-fitness .chapternav-icon {
         background-repeat: no-repeat;
         background-image: url("img/tile_power_of_plus__lmyedbcfwtei_medium.jpg")
     }
-}
+} */
 
-@media only screen and (max-width: 1068px) and(-webkit-min-device-pixel-ratio: 1.5), only screen and(max-width: 1068px) and(min-resolution: 1.5dppx), only screen and(max-width: 1068px) and(min-resolution: 144dpi) {
+/* @media only screen and (max-width: 1068px) and(-webkit-min-device-pixel-ratio: 1.5), only screen and(max-width: 1068px) and(min-resolution: 1.5dppx), only screen and(max-width: 1068px) and(min-resolution: 144dpi) {
     .tile-power-of-plus .image-power-of-plus {
         background-image: url("img/tile_power_of_plus__lmyedbcfwtei_medium_2x.jpg")
     }
-}
+} */
 
-@media only screen and (max-width: 734px) {
+/* @media only screen and (max-width: 734px) {
     .tile-power-of-plus .image-power-of-plus {
         width: 414px;
         height: 293px;
@@ -6785,35 +6217,35 @@ html.no-svg .chapternav-item-fitness .chapternav-icon {
         background-repeat: no-repeat;
         background-image: url("img/tile_power_of_plus__lmyedbcfwtei_small.jpg")
     }
-}
+} */
 
-@media only screen and (max-width: 734px) and(-webkit-min-device-pixel-ratio: 1.5), only screen and(max-width: 734px) and(min-resolution: 1.5dppx), only screen and(max-width: 734px) and(min-resolution: 144dpi) {
+/* @media only screen and (max-width: 734px) and(-webkit-min-device-pixel-ratio: 1.5), only screen and(max-width: 734px) and(min-resolution: 1.5dppx), only screen and(max-width: 734px) and(min-resolution: 144dpi) {
     .tile-power-of-plus .image-power-of-plus {
         background-image: url("img/tile_power_of_plus__lmyedbcfwtei_small_2x.jpg")
     }
-}
+} */
 
-@media only screen and (max-width: 734px) {
+/* @media only screen and (max-width: 734px) {
     .tile-power-of-plus .image-power-of-plus {
         position: relative;
         left: 50%;
         margin-left:-267.5px
     }
-}
+} */
 
-@media only screen and (max-width: 734px) and(max-width: 1068px) {
+/* @media only screen and (max-width: 734px) and(max-width: 1068px) {
     .tile-power-of-plus .image-power-of-plus {
         left: 50%;
         margin-left:-181px
     }
-}
+} */
 
-@media only screen and (max-width: 734px) and(max-width: 734px) {
+/* @media only screen and (max-width: 734px) and(max-width: 734px) {
     .tile-power-of-plus .image-power-of-plus {
         left: 50%;
         margin-left:-207px
     }
-}
+} */
 
 .section-options .tile-wwdc {
     flex-flow: column;
@@ -7135,7 +6567,7 @@ html.text-zoom .section-options .tile-wwdc {
     }
 } */
 
-@media only screen and (max-width: 1068px) {
+/* @media only screen and (max-width: 1068px) {
     .tile-why-watch .image-why-watch {
         width: 584px;
         height: 344px;
@@ -7187,7 +6619,7 @@ html.text-zoom .section-options .tile-wwdc {
         left: 50%;
         margin-left:-297.5px
     }
-}
+} */
 
 .tile-fitness {
     background: #f2f2f2;
@@ -7256,7 +6688,7 @@ html.text-zoom .section-options .tile-wwdc {
     }
 }
 
-.tile-fitness .tile-content .violator {
+/* .tile-fitness .tile-content .violator {
     margin-bottom:30px
 }
 
@@ -7264,7 +6696,7 @@ html.text-zoom .section-options .tile-wwdc {
     .tile-fitness .tile-content .violator {
         margin-bottom:25px
     }
-}
+} */
 
 .tile-fitness .tile-content .image-fitness-logo {
     width: 121px;
@@ -7418,7 +6850,6 @@ html.text-zoom .section-options .tile-wwdc {
         line-height: 1.15;
         font-weight: 600;
         letter-spacing: .009em;
-        font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
     }
 
 }
@@ -7477,15 +6908,15 @@ html.text-zoom .section-options .tile-wwdc {
         height: 290px;
         background-size: 362px 290px;
         background-repeat: no-repeat;
-        background-image: url("img/tile_bands_fall__s60wt74h9aqa_medium.jpg")
+        background-image: url("img/tile_bands_fall__s60wt74h9aqa_large_2x.jpg")
     }
 }
 
-@media only screen and (max-width: 1068px) and(-webkit-min-device-pixel-ratio: 1.5), only screen and(max-width: 1068px) and(min-resolution: 1.5dppx), only screen and(max-width: 1068px) and(min-resolution: 144dpi) {
+/* @media only screen and (max-width: 1068px) and(-webkit-min-device-pixel-ratio: 1.5), only screen and(max-width: 1068px) and(min-resolution: 1.5dppx), only screen and(max-width: 1068px) and(min-resolution: 144dpi) {
     .section-essentials .tile-bands .image-bands {
         background-image: url("img/tile_bands_fall__s60wt74h9aqa_medium_2x.jpg")
     }
-}
+} */
 
 @media only screen and (max-width: 734px) {
     .section-essentials .tile-bands .image-bands {
@@ -7493,7 +6924,7 @@ html.text-zoom .section-options .tile-wwdc {
         height: 290px;
         background-size: 414px 290px;
         background-repeat: no-repeat;
-        background-image: url("img/tile_bands_fall__s60wt74h9aqa_small.jpg")
+        background-image: url("img/tile_bands_fall__s60wt74h9aqa_small_2x.jpg")
     }
 }
 
@@ -7511,11 +6942,11 @@ html.text-zoom .section-options .tile-wwdc {
     background-image: url("img/tile_bands_winter__dr3z2qgi0z2a_large.jpg")
 }
 
-@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and(min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
+/* @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and(min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
     .section-essentials .tile-bands .image-bands-winter {
         background-image: url("img/tile_bands_winter__dr3z2qgi0z2a_large_2x.jpg")
     }
-}
+} */
 
 @media only screen and (max-width: 1068px) {
     .section-essentials .tile-bands .image-bands-winter {
@@ -7523,7 +6954,7 @@ html.text-zoom .section-options .tile-wwdc {
         height: 290px;
         background-size: 362px 290px;
         background-repeat: no-repeat;
-        background-image: url("img/tile_bands_winter__dr3z2qgi0z2a_medium.jpg")
+        background-image: url("img/tile_bands_winter__dr3z2qgi0z2a_large_2x.jpg")
     }
 }
 
@@ -7750,7 +7181,7 @@ html.text-zoom .section-options .tile-wwdc {
         height: 159px;
         background-size: 321px 159px;
         background-repeat: no-repeat;
-        background-image: url("img/tile_airpods_engraving__bp9qmvld3s1y_medium.jpg")
+        /* background-image: url("img/tile_airpods_engraving__bp9qmvld3s1y_medium.jpg") */
     }
 }
 
@@ -7894,6 +7325,11 @@ html.text-zoom .section-options .tile-wwdc {
         width:100%
     }
 }
+/* @media only screen and (max-width: 737px) {
+    .tile-apple-music .tile-image {
+        position: inherit;
+    }
+} */
 
 .tile-apple-music .tile-image .image-apple-music {
     width: 675px;
@@ -7929,7 +7365,7 @@ html.text-zoom .section-options .tile-wwdc {
 @media only screen and (max-width: 734px) {
     .tile-apple-music .tile-image .image-apple-music {
         width: 414px;
-        height: 650px;
+        height: 500px;
         background-size: 414px 650px;
         background-repeat: no-repeat;
         background-image: url("img/tile-apple-music__eukr7jdumumq_small.jpg")
@@ -7946,8 +7382,10 @@ html.text-zoom .section-options .tile-wwdc {
     .tile-apple-music .tile-image .image-apple-music {
         background-repeat: no-repeat;
         background-image: url("img/tile-apple-music__eukr7jdumumq_large.jpg");
-        background-size: cover;
-        width:100%
+        background-size: 120%;
+        width:100%;
+        background-position: bottom;
+        height: 550px;
     }
 }
 
@@ -8022,7 +7460,7 @@ html.text-zoom .section-options .tile-wwdc {
 
 @media only screen and (max-width: 734px) {
     .tile-apple-music .tile-content {
-        height:650px
+        height:550px;
     }
 }
 
@@ -8050,11 +7488,10 @@ html.text-zoom .section-options .tile-wwdc {
 
 @media only screen and (max-width: 734px) {
     .tile-apple-music .tile-copy {
-        font-size: 48px;
+        font-size: 1.5rem;
         line-height: 1.08349;
         font-weight: 600;
         letter-spacing: -.003em;
-        font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
         margin-top:20px
     }
 
@@ -8127,7 +7564,7 @@ html.text-zoom .section-options .tile-wwdc {
     }
 }
 
-@media only screen and (max-width: 1068px) {
+/* @media only screen and (max-width: 1068px) {
     .image-apple-music-logo {
         width: 116px;
         height: 29px;
@@ -8135,13 +7572,13 @@ html.text-zoom .section-options .tile-wwdc {
         background-repeat: no-repeat;
         background-image: url("img/logo-apple-music__d3g9jd3q6d26_medium.png")
     }
-}
+} */
 
-@media only screen and (max-width: 1068px) and(-webkit-min-device-pixel-ratio: 1.5), only screen and(max-width: 1068px) and(min-resolution: 1.5dppx), only screen and(max-width: 1068px) and(min-resolution: 144dpi) {
+/* @media only screen and (max-width: 1068px) and(-webkit-min-device-pixel-ratio: 1.5), only screen and(max-width: 1068px) and(min-resolution: 1.5dppx), only screen and(max-width: 1068px) and(min-resolution: 144dpi) {
     .image-apple-music-logo {
         background-image: url("img/logo-apple-music__d3g9jd3q6d26_medium_2x.png")
     }
-}
+} */
 
 @media only screen and (max-width: 734px) {
     .image-apple-music-logo {
@@ -8375,21 +7812,12 @@ html.text-zoom .tile-apple-card .tile-copy {
     }
 } */
 
-@media only screen and (max-width: 1068px) {
-    .section-more .tile-one .image-one-logo {
-        width: 184px;
-        height: 59px;
-        background-size: 184px 59px;
-        background-repeat: no-repeat;
-        background-image: url("img/logo-apple-one__cwtz6e3tcscy_medium.png")
-    }
-}
 
-@media only screen and (max-width: 1068px) and(-webkit-min-device-pixel-ratio: 1.5), only screen and(max-width: 1068px) and(min-resolution: 1.5dppx), only screen and(max-width: 1068px) and(min-resolution: 144dpi) {
+/* @media only screen and (max-width: 1068px) and(-webkit-min-device-pixel-ratio: 1.5), only screen and(max-width: 1068px) and(min-resolution: 1.5dppx), only screen and(max-width: 1068px) and(min-resolution: 144dpi) {
     .section-more .tile-one .image-one-logo {
         background-image: url("img/logo-apple-one__cwtz6e3tcscy_medium_2x.png")
     }
-}
+} */
 
 @media only screen and (max-width: 734px) {
     .section-more .tile-one .image-one-logo {
@@ -8666,7 +8094,7 @@ html.text-zoom .tile-apple-card .tile-copy {
     }
 }
 
-@media only screen and (max-width: 1068px) {
+/* @media only screen and (max-width: 1068px) {
     .image-three-rings {
         width: 277px;
         height: 279px;
@@ -8674,13 +8102,13 @@ html.text-zoom .tile-apple-card .tile-copy {
         background-repeat: no-repeat;
         background-image: url("img/tile_rings__b6fsb8eh4j36_medium.jpg")
     }
-}
+} */
 
-@media only screen and (max-width: 1068px) and(-webkit-min-device-pixel-ratio: 1.5), only screen and(max-width: 1068px) and(min-resolution: 1.5dppx), only screen and(max-width: 1068px) and(min-resolution: 144dpi) {
+/* @media only screen and (max-width: 1068px) and(-webkit-min-device-pixel-ratio: 1.5), only screen and(max-width: 1068px) and(min-resolution: 1.5dppx), only screen and(max-width: 1068px) and(min-resolution: 144dpi) {
     .image-three-rings {
         background-image: url("img/tile_rings__b6fsb8eh4j36_medium_2x.jpg")
     }
-}
+} */
 
 @media only screen and (max-width: 734px) {
     .image-three-rings {
@@ -9117,7 +8545,7 @@ html.text-zoom .tile-apple-card .tile-copy {
         font-size: 17px;
         line-height: 1.23536;
         font-weight: 400;
-        letter-spacing: -.022em;
+        /* letter-spacing: -.022em; */
         font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
         font-weight:600
     }
@@ -9373,7 +8801,7 @@ html.text-zoom .tile-apple-card .tile-copy {
         background-image: url("img/compare_s6__evsi0wlzp4ya_small_2x.jpg")
     }
 }
-
+/* 
 body.page-nike .section-shared-compare .compare-item {
     width:400px
 }
@@ -9522,7 +8950,7 @@ body.page-nike .section-shared-compare .compare-item-series-6 .compare-item-imag
     body.page-nike .section-shared-compare .compare-item-series-6 .compare-item-image {
         margin-bottom:26px
     }
-}
+} */
 
 .compare-legal.hidden {
     display:none
@@ -9532,9 +8960,9 @@ body.page-nike .section-shared-compare .compare-item-series-6 .compare-item-imag
     display:none
 }
 
-.page-family .section-shared-compare .footnote-watch {
+/* .page-family .section-shared-compare .footnote-watch {
     display:unset
-}
+} */
 
 .page-s6 .section-shared-compare .footnote-s6 {
     display:unset
@@ -9556,10 +8984,10 @@ body.page-nike .section-shared-compare .compare-item-series-6 .compare-item-imag
     display:unset
 }
 
-.page-nike .section-shared-compare .footnote-nike {
+/* .page-nike .section-shared-compare .footnote-nike {
     display:unset
-}
-
+} */
+/* 
 .section-compare-expanded {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -9857,8 +9285,8 @@ html.ie .section-compare-expanded-grid {
     .section-compare-expanded .compare-item-logo {
         padding-top:0
     }
-}
-
+} */
+/* 
 .section-compare-expanded .compare-item-nike .compare-item-image {
     background-size: contain;
     background-position: center;
@@ -9919,8 +9347,8 @@ html.ie .section-compare-expanded-grid {
     .section-compare-expanded .compare-item-nike .compare-item-logo {
         background-image: url("img/logo_nike_compare__gbbwc1c4yu62_large_2x.jpg")
     }
-}
-
+} */
+/* 
 .section-compare-expanded .compare-item-hermes .compare-item-image {
     background-size: contain;
     background-position: center;
@@ -9981,9 +9409,9 @@ html.ie .section-compare-expanded-grid {
     .section-compare-expanded .compare-item-hermes .compare-item-logo {
         background-image: url("img/logo_hermes_compare__cfrpsn5z4f0i_large_2x.jpg")
     }
-}
+} */
 
-.section-compare-expanded .compare-item-series-6 .compare-item-image {
+/* .section-compare-expanded .compare-item-series-6 .compare-item-image {
     background-size: contain;
     background-position: center;
     background-color: transparent;
@@ -10167,7 +9595,7 @@ html.ie .section-compare-expanded-grid {
     .section-compare-expanded .compare-item-series-3 .compare-item-logo {
         background-image: url("img/logo_s3_compare__nxlg19fwspme_large_2x.jpg")
     }
-}
+} */
 
 
 
@@ -10278,10 +9706,9 @@ html.ie .section-compare-expanded-grid {
 
 @media only screen and (max-width: 1068px) {
     .section-shared-compare .compare-item-headline {
-        font-size: 17px;
+        font-size: 19px;
         line-height: 1.23536;
         font-weight: 400;
-        letter-spacing: -.022em;
         font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
         font-weight:600
     }
@@ -10424,7 +9851,7 @@ html.ie .section-compare-expanded-grid {
     }
 }
 
-@media only screen and (max-width: 1068px) {
+/* @media only screen and (max-width: 1068px) {
     .section-shared-compare .compare-item-se .compare-item-image {
         width: 162px;
         height: 192px;
@@ -10432,7 +9859,7 @@ html.ie .section-compare-expanded-grid {
         background-repeat: no-repeat;
         background-image: url("img/compare_se__crebhd9hhdea_medium.jpg")
     }
-}
+} */
 
 @media only screen and (max-width: 1068px) and(-webkit-min-device-pixel-ratio: 1.5), only screen and(max-width: 1068px) and(min-resolution: 1.5dppx), only screen and(max-width: 1068px) and(min-resolution: 144dpi) {
     .section-shared-compare .compare-item-se .compare-item-image {
@@ -10450,11 +9877,11 @@ html.ie .section-compare-expanded-grid {
     }
 }
 
-@media only screen and (max-width: 734px) and(-webkit-min-device-pixel-ratio: 1.5), only screen and(max-width: 734px) and(min-resolution: 1.5dppx), only screen and(max-width: 734px) and(min-resolution: 144dpi) {
+/* @media only screen and (max-width: 734px) and(-webkit-min-device-pixel-ratio: 1.5), only screen and(max-width: 734px) and(min-resolution: 1.5dppx), only screen and(max-width: 734px) and(min-resolution: 144dpi) {
     .section-shared-compare .compare-item-se .compare-item-image {
         background-image: url("img/compare_se__crebhd9hhdea_small_2x.jpg")
     }
-}
+} */
 
 .section-shared-compare .compare-item-series-3 .compare-item-image {
     width: 191px;
@@ -10464,13 +9891,13 @@ html.ie .section-compare-expanded-grid {
     background-image: url("img/compare_s3__clzj8ukygo5e_large.jpg")
 }
 
-@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and(min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
+/* @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and(min-resolution: 1.5dppx),(-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
     .section-shared-compare .compare-item-series-3 .compare-item-image {
         background-image: url("img/compare_s3__clzj8ukygo5e_large_2x.jpg")
     }
-}
+} */
 
-@media only screen and (max-width: 1068px) {
+/* @media only screen and (max-width: 1068px) {
     .section-shared-compare .compare-item-series-3 .compare-item-image {
         width: 156px;
         height: 192px;
@@ -10478,7 +9905,7 @@ html.ie .section-compare-expanded-grid {
         background-repeat: no-repeat;
         background-image: url("img/compare_s3__clzj8ukygo5e_medium.jpg")
     }
-}
+} */
 
 @media only screen and (max-width: 1068px) and(-webkit-min-device-pixel-ratio: 1.5), only screen and(max-width: 1068px) and(min-resolution: 1.5dppx), only screen and(max-width: 1068px) and(min-resolution: 144dpi) {
     .section-shared-compare .compare-item-series-3 .compare-item-image {
@@ -10516,7 +9943,7 @@ html.ie .section-compare-expanded-grid {
     }
 } */
 
-@media only screen and (max-width: 1068px) {
+/* @media only screen and (max-width: 1068px) {
     .section-shared-compare .compare-item-series-6 .compare-item-image {
         width: 165px;
         height: 192px;
@@ -10524,7 +9951,7 @@ html.ie .section-compare-expanded-grid {
         background-repeat: no-repeat;
         background-image: url("img/compare_s6__evsi0wlzp4ya_medium.jpg")
     }
-}
+} */
 
 @media only screen and (max-width: 1068px) and(-webkit-min-device-pixel-ratio: 1.5), only screen and(max-width: 1068px) and(min-resolution: 1.5dppx), only screen and(max-width: 1068px) and(min-resolution: 144dpi) {
     .section-shared-compare .compare-item-series-6 .compare-item-image {
@@ -10547,7 +9974,7 @@ html.ie .section-compare-expanded-grid {
         background-image: url("img/compare_s6__evsi0wlzp4ya_small_2x.jpg")
     }
 }
-
+/* 
 body.page-nike .section-shared-compare .compare-item {
     width:400px
 }
@@ -10696,7 +10123,7 @@ body.page-nike .section-shared-compare .compare-item-series-6 .compare-item-imag
     body.page-nike .section-shared-compare .compare-item-series-6 .compare-item-image {
         margin-bottom:26px
     }
-}
+} */
 
 .compare-legal.hidden {
     display:none
@@ -10706,9 +10133,9 @@ body.page-nike .section-shared-compare .compare-item-series-6 .compare-item-imag
     display:none
 }
 
-.page-family .section-shared-compare .footnote-watch {
+/* .page-family .section-shared-compare .footnote-watch {
     display:unset
-}
+} */
 
 .page-s6 .section-shared-compare .footnote-s6 {
     display:unset
@@ -10730,10 +10157,10 @@ body.page-nike .section-shared-compare .compare-item-series-6 .compare-item-imag
     display:unset
 }
 
-.page-nike .section-shared-compare .footnote-nike {
+/* .page-nike .section-shared-compare .footnote-nike {
     display:unset
-}
-
+} */
+/* 
 .section-compare-expanded {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -11036,8 +10463,8 @@ html.ie .section-compare-expanded-grid {
     .section-compare-expanded .compare-item-logo {
         padding-top:0
     }
-}
-
+} */
+/* 
 .section-compare-expanded .compare-item-nike .compare-item-image {
     background-size: contain;
     background-position: center;
@@ -11098,9 +10525,9 @@ html.ie .section-compare-expanded-grid {
     .section-compare-expanded .compare-item-nike .compare-item-logo {
         background-image: url("img/logo_nike_compare__gbbwc1c4yu62_large_2x.jpg")
     }
-}
+} */
 
-.section-compare-expanded .compare-item-hermes .compare-item-image {
+/* .section-compare-expanded .compare-item-hermes .compare-item-image {
     background-size: contain;
     background-position: center;
     background-color: transparent;
@@ -11160,8 +10587,8 @@ html.ie .section-compare-expanded-grid {
     .section-compare-expanded .compare-item-hermes .compare-item-logo {
         background-image: url("img/logo_hermes_compare__cfrpsn5z4f0i_large_2x.jpg")
     }
-}
-
+} */
+/* 
 .section-compare-expanded .compare-item-series-6 .compare-item-image {
     background-size: contain;
     background-position: center;
@@ -11347,4 +10774,4 @@ html.ie .section-compare-expanded-grid {
         background-image: url("img/logo_s3_compare__nxlg19fwspme_large_2x.jpg")
     }
 }
-
+ */
