@@ -8,9 +8,6 @@
 		background-size: 126px 150px;
 		background-image: url("img/compare_se__crebhd9hhdea_small_2x.jpg");
     }
-    /* .section-shared-compare .compare-item-se .compare-item-image {
-		background-image: url("img/compare_se__crebhd9hhdea_small_2x.jpg");
-    } */
     .section-shared-compare .compare-item-series-3 .compare-item-image {
 		width: 120px;
 		height: 150px;
@@ -35,71 +32,6 @@
 		padding-top: 20px;
 		margin-bottom: 20px;
 	}
-    /* body.page-nike
-		.section-shared-compare
-		.compare-item-series-6
-		.compare-item-image {
-		background-size: 132px 156px;
-		background-image: url("img/compare_nike_s6__d8uac68bce2q_small.jpg");
-    }
-    body.page-nike .section-shared-compare .compare-item-se .compare-item-image {
-		background-size: 127px 152px;
-		background-image: url("img/compare_nike_se__ge8v73rsxvyq_small.jpg");
-    } */
-    /* .section-compare-expanded .compare-item-series-6 .compare-item-image {
-		background-image: url("img/light_s6__cfkta09zb02q_small.jpg");
-    }
-    .section-compare-expanded .compare-item-se .compare-item-image {
-		background-image: url("img/light_se__cq8ccuo2peoi_small.jpg");
-    }
-    .section-compare-expanded .compare-item-series-3 .compare-item-image {
-		background-image: url("img/light_s3__4viszm45e6aa_small.jpg");
-    } */
-    /* .section-compare-expanded .compare-item-nike .compare-item-image {
-		background-image: url("img/light_nike__fkga41wbp4i2_small.jpg");
-    } */
-    /* .section-compare-expanded .compare-item-hermes .compare-item-image {
-		background-image: url("img/light_hermes__e15p1ebs58wi_small.jpg");
-    } */
-    /* .page-hermes .section-configure-wrapper .configure-item-case {
-		background-size: 200px 316px;
-		background-image: url("img/hermes-cto-case__dgg4277i9oa6_small.png");
-    }
-    .page-nike .section-configure-wrapper .configure-item-case {
-		background-size: 200px 316px;
-		background-image: url("img/nike-cto-case__dmqw3dizfeye_small.png");
-    }
-    .page-watch:not(.page-se) .section-configure-wrapper .configure-item-case {
-		background-size: 200px 316px;
-		background-image: url("img/watch-cto-case__dm8sxecyffma_small.png");
-    }
-    .page-s6 .section-configure-wrapper .configure-item-case {
-		width: 200px;
-		height: 316px;
-		background-size: 200px 316px;
-		background-image: url("img/s6-cto-case__fa0yi0iqnfyq_small.png");
-    }
-    .page-hermes .section-configure-wrapper .configure-item-case {
-		background-size: 200px 316px;
-		background-image: url("img/hermes-cto-case__dgg4277i9oa6_small.png");
-    }
-    .page-nike .section-configure-wrapper .configure-item-case {
-		background-size: 200px 316px;
-		background-image: url("img/nike-cto-case__dmqw3dizfeye_small.png");
-    }
-    .page-watch:not(.page-se) .section-configure-wrapper .configure-item-case {
-		background-size: 200px 316px;
-		background-image: url("img/watch-cto-case__dm8sxecyffma_small.png");
-    }
-    .page-s6 .section-configure-wrapper .configure-item-case {
-		width: 200px;
-		height: 316px;
-		background-size: 200px 316px;
-		background-image: url("img/s6-cto-case__fa0yi0iqnfyq_small.png");
-    } */
-    /* span.jp-headline-adjust.only-large-reject {
-		margin-right: -0.4em;
-	} */
 	span.jp-headline-adjust.small-reject {
 		margin-right: 0;
     }
@@ -132,9 +64,6 @@
 	.section-more .tile-one .tile-content {
 		width: 100%;
     }
-    /* .section-trade .text-block .headline-sosumi {
-		margin-left: -10px;
-    } */
     .tile-discount .tile-content-wrapper {
 		width: 100%;
 	}
@@ -142,30 +71,16 @@
 		width: 100%;
 		padding: 58px 0 36px;
     }
-    /* .section-more .tile-one .tile-image .image-one {
-		background-image: url("img/tile_apple_one__dv857y6v8dyu_small_2x.jpg");
-    } */
     .section-more .tile-one .tile-image .image-one {
 		width: 205px;
 		height: 182px;
 		background-size: 205px 182px;
 		background-image: url("img/tile_apple_one__dv857y6v8dyu_small_2x.jpg");
     }
-    /* .tile-power-of-plus .image-power-of-plus {
-		background-image: url("img/tile_power_of_plus__lmyedbcfwtei_small_2x.jpg");
-    }
-    .tile-power-of-plus .image-power-of-plus {
-		background-size: 414px 293px;
-		background-image: url("img/tile_power_of_plus__lmyedbcfwtei_small.jpg");
-    } */
     .image-series-6 {
 		background-size: 224px 318px;
 		background-image: url("img/tile_watch_s6__bbw92knen8mq_small.jpg");
     }
-    /* .tile-why-watch .image-why-watch {
-		background-size: 595px 344px;
-		background-image: url("img/tile_why_watch__bzxlfokkvj36_small.jpg");
-    } */
     .section-options .tile-wwdc .tile-image .image-wwdc {
 		background-size: 414px 611px;
 		background-image: url("img/tile_watchos7__fs1gp8e4poq6_small_2x.jpg");
@@ -181,9 +96,6 @@
 		padding-left: 5%;
 
 	}
-    /* .section-more .tile-apple-pay .violator {
-		margin-bottom: 30px;
-	} */
     .section-more .tile-apple-pay .image-apple-pay-logo {
 		width: 54px;
 		height: 23px;
@@ -225,15 +137,216 @@
 		width: 90%;
 		height: auto;
 		margin: 58px auto 0;
-    }
-    /* .holiday-2020__image::after {
-		content: "";
-		display: block;
-		padding-bottom: 29.62669%;
-    } */
-    /* .section-more .tile-apple-pay .tile-content {
-		width: 100%;
-	} */
+	}
+	.section-compare .tile-content {
+        width:75%
+	}
+	.tile-content {
+        width:100%
+	}
+	.tile-content-wrapper-alt {
+        width:278px
+	}
+	.tile-headline {
+        padding-top:50px
+	}
+	.tile-copy-alt {
+        padding:0 9px;
+	}
+	.tile-content-wrapper-alt2 {
+        width:278px
+	}
 
+
+	.holiday-2020 {
+        flex-direction: column;
+        padding:4rem 3rem;
+	}
+	.holiday-2020__content {
+        text-align: center;
+        margin-top:0
+	}
+	.holiday-2020__content--headline {
+        font-size: 32px;
+        line-height: 1.125;
+        font-weight: 600;
+        letter-spacing: .004em;
+	}
+	.holiday-2020__content--copy {
+        font-size: 17px;
+        line-height: 1.47059;
+        font-weight: 400;
+        letter-spacing: -.022em;
+	}
+	.holiday-2020__content--copy {
+        margin-top: 12px;
+        margin-bottom:13px
+	}
+	.holiday-2020__image::after {
+        content: '';
+        display: block;
+        padding-bottom: 96.16519%;
+	}
+	.tile-mothers-day .image-content {
+        overflow:visible
+	}
+	.tile-mothers-day .copy-content {
+		margin-left:0px;
+		width: 100%;
+        padding-bottom:24px;
+	}
+	.section-options .tile-wwdc .tile-content {
+        margin-top:-404px
+	}
+	.section-options .tile-wwdc .tile-content .tile-content-wrapper {
+        padding-bottom: 60px;
+        padding-top: 160px;
+        width:initial
+	}
+	.section-options .tile-wwdc .tile-image .image-wwdc {
+        left: 50%;
+        margin-left:-207px
+	}
+	.section-essentials .section-headline {
+        font-size: 40px;
+        line-height: 1.15;
+        font-weight: 600;
+		letter-spacing: .009em;
+        padding-top: 45px;
+        padding-bottom:40px;
+    }
+
+	.section-essentials .tile-bands .image-bands-winter {
+        width: 414px;
+        height: 290px;
+        background-size: 414px 290px;
+        background-repeat: no-repeat;
+        background-image: url("img/tile_bands_winter__dr3z2qgi0z2a_small.jpg")
+	}
+	.tile-airpods .tile-image {
+        padding:0
+	}
+	.section-buystrip .buystrip-item-content {
+        max-width: 274px;
+        padding-left: 0;
+        padding-right:0
+	}
+
+	.section-more .tile-one .tile-image {
+        margin:0 0 66px
+	}
+	.section-more .tile-one .tile-content {
+        width:unset
+	}
+	.section-more .tile-one .tile-image .image-one {
+		margin-top:48px;
+		width: 295px;
+        height: 179px;
+        background-size: 295px 179px;
+        background-repeat: no-repeat;
+        background-image: url("img/tile_apple_one__dv857y6v8dyu_small_2x.jpg");
+	}
+	
+	.section-more .tile-one .tile-content .tile-content-wrapper p.tile-copy {
+        margin-top: 20px;
+        font-size: 17px;
+        line-height: 1.381;
+        font-weight: 400;
+        letter-spacing: .0045em;
+	}
+	
+	.section-more .tile-one .tile-cta {
+        margin:6px 15px 17px
+	}
+	.tile-three-rings {
+        padding:25px 0 60px
+	}
+	.tile-three-rings .tile-content {
+        width: 100%;
+        margin-bottom:34px
+	}
+	.tile-three-rings .tile-content-wrapper {
+        width: unset;
+        padding: 0;
+        max-width: 270px;
+        margin:0 auto
+	}
+	.tile-three-rings .tile-cta {
+        margin-top:10px
+	}
+	.image-three-rings {
+        width: 263px;
+        height: 263px;
+        background-size: 263px 263px;
+        background-repeat: no-repeat;
+        background-image: url("img/tile_rings__b6fsb8eh4j36_small.jpg")
+	}
+	.tile-discount .tile-content {
+        width:340px
+	}
+	.acmi-ribbon .ribbon-content {
+        max-width: 414px
+	}
+	.section-shared-compare .section-compare-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        max-width: 312px;
+        grid-gap: 42px 24px;
+        padding:0 20px
+	}
+	.typography-headline {
+        font-size: 32px;
+        font-weight: 600;
+	}
+	.typography-eyebrow-reduced {
+        font-size: 19px;
+        font-weight: 600;
+	}
+	.section-shared-compare .section-compare-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        max-width: 312px;
+        grid-gap: 42px 24px;
+        padding:0 20px
+	}
+	.section-shared-compare .compare-item {
+        width:145px
+	}
+	.section-shared-compare .compare-item-se .feature-gps-cellular {
+        margin-top:20px
+	}
+	.section-shared-compare .compare-item-se .feature-retina {
+        margin-bottom: 0;
+        padding-top:20px
+	}
+	.section.section-models .tile-copy {
+        margin-top:24px
+	}
+	.section.section-models .tile-buy {
+        margin-bottom:18px
+	}
+	.section.section-models .tile.tile-se {
+        padding:50px 0
+	}
+	.section.section-models .tile.tile-se .tile-content {
+        padding: 0;
+        width:100%
+	}
+	.section.section-models .tile.tile-se .tile-content-wrapper {
+        width:unset
+	}
+	.section.section-models .tile.tile-se .tile-image {
+        padding-right: 0;
+        margin-bottom:50px;
+        width: 100%;
+	}
+	.section-more > .section-headline {
+        max-width: 300px;
+        margin:0 auto 20px
+		font-size: 40px;
+		line-height: 1.15;
+		font-weight: 600;
+		letter-spacing: -.025em;
+	}
 
 }

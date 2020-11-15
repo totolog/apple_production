@@ -17,76 +17,6 @@
 		background-size: 165px 192px;
 		background-image: url(img/compare_s6__evsi0wlzp4ya_large_2x.jpg);
     }
-    /* body.page-nike
-		.section-shared-compare
-		.compare-item-series-6
-		.compare-item-image {
-		background-size: 278px 330px;
-		background-image: url("img/compare_nike_s6__d8uac68bce2q_medium.jpg");
-    }
-    body.page-nike .section-shared-compare .compare-item-se .compare-item-image {
-		background-size: 281px 335px;
-		background-image: url("img/compare_nike_se__ge8v73rsxvyq_medium.jpg");
-    } */
-    /* .section-compare-expanded .compare-item-series-6 .compare-item-image {
-		background-image: url("img/light_s6__cfkta09zb02q_medium.jpg");
-    }
-    .section-compare-expanded .compare-item-se .compare-item-image {
-		background-image: url("img/light_se__cq8ccuo2peoi_medium.jpg");
-    }
-    .section-compare-expanded .compare-item-series-3 .compare-item-image {
-		background-image: url("img/light_s3__4viszm45e6aa_medium.jpg");
-    } */
-    /* .section-compare-expanded .compare-item-nike .compare-item-image {
-		background-image: url("img/light_nike__fkga41wbp4i2_medium.jpg");
-    } */
-    /* .section-compare-expanded .compare-item-hermes .compare-item-image {
-		background-image: url("img/light_hermes__e15p1ebs58wi_medium.jpg");
-    } */
-    /* .section-configure .partner-hermes-copy .medium-hide,
-	.section-configure .partner-nike-copy .medium-hide {
-		display: none;
-    } */
-    /* .page-hermes .section-configure-wrapper .configure-item-case {
-		background-size: 250px 386px;
-		background-image: url("img/hermes-cto-case__dgg4277i9oa6_medium.png");
-    }
-    .page-nike .section-configure-wrapper .configure-item-case {
-		background-size: 250px 386px;
-		background-image: url("img/nike-cto-case__dmqw3dizfeye_medium.png");
-    }
-    .page-watch:not(.page-se) .section-configure-wrapper .configure-item-case {
-		background-size: 250px 386px;
-		background-image: url("img/watch-cto-case__dm8sxecyffma_medium.png");
-    }
-    .page-s6 .section-configure-wrapper .configure-item-case {
-		width: 250px;
-		height: 386px;
-		background-size: 250px 386px;
-		background-image: url("img/s6-cto-case__fa0yi0iqnfyq_medium.png");
-    } */
-    /* .section-configure .partner-hermes-copy .medium-hide,
-	.section-configure .partner-nike-copy .medium-hide {
-		display: none;
-    } */
-    /* .page-hermes .section-configure-wrapper .configure-item-case {
-		background-size: 250px 386px;
-		background-image: url("img/hermes-cto-case__dgg4277i9oa6_medium.png");
-    }
-    .page-nike .section-configure-wrapper .configure-item-case {
-		background-size: 250px 386px;
-		background-image: url("img/nike-cto-case__dmqw3dizfeye_medium.png");
-    }
-    .page-watch:not(.page-se) .section-configure-wrapper .configure-item-case {
-		background-size: 250px 386px;
-		background-image: url("img/watch-cto-case__dm8sxecyffma_medium.png");
-    }
-    .page-s6 .section-configure-wrapper .configure-item-case {
-		width: 250px;
-		height: 386px;
-		background-size: 250px 386px;
-		background-image: url("img/s6-cto-case__fa0yi0iqnfyq_medium.png");
-    } */
     .section.section-models .tile-price {
 		margin: 14px auto 30px;
     }
@@ -113,10 +43,6 @@
 		height: 225px;
 		background-size: 253px 225px;
     }
-    /* .tile-power-of-plus .image-power-of-plus {
-		background-size: 362px 317px;
-		background-image: url("img/tile_power_of_plus__lmyedbcfwtei_medium.jpg");
-    } */
     .image-se {
 		background-size: 358px 350px;
 		background-image: url("img/tile-watch-se__knji2d25x8qe_large_2x.jpg");
@@ -127,17 +53,10 @@
 		background-size: 227px 323px;
 		background-image: url("img/tile_watch_s6__bbw92knen8mq_large_2x.jpg");
     }
-    /* .tile-why-watch .image-why-watch {
-		background-size: 584px 344px;
-		background-image: url("img/tile_why_watch__bzxlfokkvj36_medium.jpg");
-    } */
     .section-options .tile-wwdc .tile-image .image-wwdc {
 		background-size: 702px 446px;
 		background-image: url("img/tile_watchos7__fs1gp8e4poq6_large_2x.jpg");
     }
-    /* .section-options .tile-wwdc .tile-image .image-wwdc {
-		background-image: url("img/tile_watchos7__fs1gp8e4poq6_medium_2x.jpg");
-    } */
     .section-more .tile-apple-pay {
 		padding: 0 20px 0 30px;
     }
@@ -196,5 +115,127 @@
         height: 15px;
         background-size: 60px 15px;
         background-repeat: no-repeat;
+	}
+	.section-compare .tile-content-wrapper {
+        width:unset
+	}
+	.section-compare .tile-headline {
+        font-size: 40px;
+        line-height: 1.1;
+        font-weight: 600;
+        letter-spacing: 0em;
+	}
+	.section-compare .tile-headline {
+        font-size: 32px;
+        line-height: 1.125;
+        font-weight: 600;
+        letter-spacing: .004em;
+	}
+	
+
+	.holiday-2020__content--copy {
+        margin-top: 20px;
+        margin-bottom:20px
+	}
+	.holiday-2020__image {
+        width: 297px;
+        height: 286px;
+        background-size: 297px 286px;
+        background-repeat: no-repeat;
+	}
+	.holiday-2020__image {
+        margin-top:0
+	}
+	.holiday-2020__image::after {
+        content: '';
+        display: block;
+        padding-bottom:96.2963%
+	}
+	.tile-mothers-day .copy-content {
+        margin-left:5px
+	}
+	.section-options .tile-wwdc .tile-content {
+        margin-top:-210px
+	}
+	.section-options .tile-wwdc .tile-content .tile-content-wrapper {
+        padding-bottom:20px
+	}
+	.section-options .tile-wwdc .tile-image .image-wwdc {
+        left: 50%;
+        margin-left:-351px
+	}
+	.section-essentials .section-headline {
+        font-size: 40px;
+        line-height: 1.15;
+        font-weight: 600;
+		letter-spacing: .009em;
+		padding-bottom: 0;
+        padding-top:0;
+	}
+	.section-essentials .tile-bands .image-bands-winter {
+        width: 362px;
+        height: 290px;
+        background-size: 362px 290px;
+        background-repeat: no-repeat;
+        background-image: url("img/tile_bands_winter__dr3z2qgi0z2a_large_2x.jpg")
+	}
+	.tile-airpods .tile-image {
+        padding:16px 0
+	}
+	.section-buystrip .buystrip-item-content {
+        padding-left: 18px;
+        padding-right:18px
+	}
+	.tile-apple-card .tile-content-wrapper {
+        padding-top:65px
+	}
+	.section-more .tile-one .tile-image {
+        padding-left:25px;
+        margin:86px 0 71px;
+	}
+	.section-more .tile-one .tile-content {
+        margin-top: 10px;
+        margin-right:25px
+	}
+	.section-more .tile-one .tile-content .tile-content-wrapper p.tile-copy {
+        max-width: 300px;
+        margin-left: auto;
+		margin-right:auto;
+		font-size: 19px;
+        line-height: 1.4211;
+        font-weight: 400;
+        letter-spacing: .0075em;
+	}
+	.section-more .tile-one .tile-cta {
+        margin:14px 15px 15px
+	}
+	.tile-three-rings {
+        padding:35px 0
+	}
+	.tile-three-rings .tile-content-wrapper {
+        width:310px
+	}
+	.tile-discount .tile-content {
+        width:285px
+	}
+	.acmi-ribbon .ribbon-content {
+        max-width:790px
+	}
+	
+	.typography-headline {
+        font-size: 40px;
+        font-weight: 600;
+	}
+	.section.section-models .tile-copy {
+        margin-top:10px
+	}
+	.section.section-models .tile.tile-se {
+        padding:50px 0 10px 0
+	}
+	.section-more > .section-headline {
+        font-size: 40px;
+        line-height: 1.15;
+        font-weight: 600;
+        letter-spacing: -.025em;
     }
 }

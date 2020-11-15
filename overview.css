@@ -4,7 +4,6 @@
 		padding: 0 15px;
 	}
 }
-/* Localized images */
 .section-shared-compare .compare-item-se .compare-item-image {
 	width: 199px;
 	height: 238px;
@@ -26,112 +25,12 @@
 	background-image: url("img/compare_s6__evsi0wlzp4ya_large_2x.jpg");
 }
 
-
-/* .section-compare-expanded .compare-item-series-6 .compare-item-image {
-	background-image: url("img/light_s6__cfkta09zb02q_large.jpg");
-}
-
-
-.section-compare-expanded .compare-item-se .compare-item-image {
-	background-image: url("img/light_se__cq8ccuo2peoi_large.jpg");
-}
-
-.section-compare-expanded .compare-item-series-3 .compare-item-image {
-	background-image: url("img/light_s3__4viszm45e6aa_large.jpg");
-} */
-
-/* Localized images */
-/* .page-hermes .section-configure-wrapper .configure-item-case {
-	background-size: 300px 522px;
-	background-image: url("img/hermes-cto-case__dgg4277i9oa6_large.png");
-} */
-/* 
-.page-nike .section-configure-wrapper .configure-item-case {
-	background-size: 300px 522px;
-	background-image: url("img/nike-cto-case__dmqw3dizfeye_large.png");
-} */
-
-/* .page-watch:not(.page-se) .section-configure-wrapper .configure-item-case {
-	background-size: 300px 522px;
-	background-image: url("img/watch-cto-case__dm8sxecyffma_large.png");
-} */
-
-/* .page-s6 .section-configure-wrapper .configure-item-case {
-	width: 300px;
-	height: 522px;
-	background-size: 300px 522px;
-	background-image: url("img/s6-cto-case__fa0yi0iqnfyq_large.png");
-} */
-
-/* Localized images */
-/* .page-hermes .section-configure-wrapper .configure-item-case {
-	background-size: 300px 522px;
-	background-image: url("img/hermes-cto-case__dgg4277i9oa6_large.png");
-} */
-/* 
-.page-nike .section-configure-wrapper .configure-item-case {
-	background-size: 300px 522px;
-	background-image: url("img/nike-cto-case__dmqw3dizfeye_large.png");
-} */
-
-/* .page-watch:not(.page-se) .section-configure-wrapper .configure-item-case {
-	background-size: 300px 522px;
-	background-image: url("img/watch-cto-case__dm8sxecyffma_large.png");
-} */
-
-/* @media only screen and (-webkit-min-device-pixel-ratio: 1.5),
-	only screen and (min-resolution: 1.5dppx),
-	(-webkit-min-device-pixel-ratio: 1.5),
-	(min-resolution: 144dpi) {
-	.page-watch:not(.page-se) .section-configure-wrapper .configure-item-case {
-		background-image: url("img/watch-cto-case__dm8sxecyffma_large_2x.png");
-	}
-} */
-
-/* .page-s6 .section-configure-wrapper .configure-item-case {
-	width: 300px;
-	height: 522px;
-	background-size: 300px 522px;
-	background-image: url("img/s6-cto-case__fa0yi0iqnfyq_large.png");
-} */
-
-/* General */
-
-.icon-after::after,
-.more::after {
-	top: -0.05em;
-}
-
-/* span.jp-headline-adjust {
-	margin-right: -0.45em;
-} */
-
-/* @media only screen and (min-width: 1069px) {
-	span.jp-headline-adjust.only-large-reject {
-		margin-right: 0;
-	}
-} */
-
-/* @media only screen and (max-width: 374px) {
-	.xsmall-hide {
-		display: none;
-	}
-	.xsmall-show {
-		display: block;
-	}
-	.xsmall-show-inline {
-		display: inline;
-	}
-} */
-
 .icon-wrapper .icon,
 .icon-wrapper .more::after,
 .icon-wrapper .icon-before::before,
 .icon-wrapper .icon-after::after {
 	position: relative;
 }
-
-/* JP Styles */
 
 .section.section-models .tile-price {
 	font-weight: 600;
@@ -152,9 +51,6 @@
 	width: 100%;
 }
 
-/* .section-trade .text-block .headline-sosumi {
-	margin-left: 0;
-} */
 .section-more .tile-one .tile-image {
 	min-width: unset;
 	padding-right: 78px;
@@ -169,9 +65,7 @@
 	background-color: #fafafa;
 	padding: 80px 0 56px;
 }
-/* .tile-discount sup.footnote {
-	top: -1.2em;
-} */
+
 
 .buystrip-item-icon-financing {
 	background-image: url("img/icon_large.svg");
@@ -188,9 +82,6 @@
 	width: 500px;
 }
 
-/* .page-family .section-shared-compare .footnote-watch {
-	top: -0.8em;
-} */
 
 .section-more .tile-one .tile-image .image-one {
 	width: 409px;
@@ -199,28 +90,10 @@
 	background-image: url("img/tile_apple_one__dv857y6v8dyu_large_2x.jpg");
 }
 
-/* .tile-power-of-plus .image-power-of-plus {
-	background-size: 535px 459px;
-	background-image: url("img/tile_power_of_plus__lmyedbcfwtei_large.jpg");
-} */
-
 .image-se {
 	background-size: 680px 665px;
 	background-image: url("img/tile-watch-se__knji2d25x8qe_large_2x.jpg");
 }
-
-/* @media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
-	only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
-	only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
-	.image-se {
-		background-image: url("img/tile-watch-se__knji2d25x8qe_medium_2x.jpg");
-	}
-} */
-
-/* .image-series-6 {
-	background-size: 464px 660px;
-	background-image: url("img/tile_watch_s6__bbw92knen8mq_large_2x.jpg");
-} */
 
 .tile-why-watch .image-why-watch {
 	background-size: 785px 518px;
@@ -231,69 +104,25 @@
 		background-size: 100%;
 		background-position: center;
 		margin-left: -37%;
-		/* width: 100vw;
-		height: 100vw; */
 	}
 }
 
-/* @media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
-	only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
-	only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
-	.tile-why-watch .image-why-watch {
-		background-image: url("img/tile_why_watch__bzxlfokkvj36_medium_2x.jpg");
-	}
-} */
-
-.section-options .tile-wwdc .tile-image .image-wwdc {
-	background-size: 1380px 675px;
-	background-image: url("img/tile_watchos7__fs1gp8e4poq6_large.jpg");
-}
-
-@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+/* @media only screen and (-webkit-min-device-pixel-ratio: 1.5),
 	only screen and (min-resolution: 1.5dppx),
 	(-webkit-min-device-pixel-ratio: 1.5),
 	(min-resolution: 144dpi) {
 	.section-options .tile-wwdc .tile-image .image-wwdc {
 		background-image: url("img/tile_watchos7__fs1gp8e4poq6_large_2x.jpg");
 	}
-}
+} */
 
-@media only screen and (min-width: 735px) and (max-width: 1068px) {
-	.section-options .tile-wwdc .tile-image .image-wwdc {
-		background-repeat: no-repeat;
-		background-image: url("img/tile_watchos7__fs1gp8e4poq6_large.jpg");
-	}
-}
-
-@media only screen and (min-width: 735px) and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+/* @media only screen and (min-width: 735px) and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
 	only screen and (min-width: 735px) and (max-width: 1068px) and (min-resolution: 1.5dppx),
 	only screen and (min-width: 735px) and (max-width: 1068px) and (min-resolution: 144dpi) {
 	.section-options .tile-wwdc .tile-image .image-wwdc {
 		background-image: url("img/tile_watchos7__fs1gp8e4poq6_large_2x.jpg");
 	}
-}
-
-@media only screen and (min-width: 735px) and (max-width: 1068px) and (max-width: 1068px) {
-	.section-options .tile-wwdc .tile-image .image-wwdc {
-		background-image: url("img/tile_watchos7__fs1gp8e4poq6_medium.jpg");
-		background-size: cover;
-	}
-}
-
-@media only screen and (min-width: 735px) and (max-width: 1068px) and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
-	only screen and (min-width: 735px) and (max-width: 1068px) and (max-width: 1068px) and (min-resolution: 1.5dppx),
-	only screen and (min-width: 735px) and (max-width: 1068px) and (max-width: 1068px) and (min-resolution: 144dpi) {
-	.section-options .tile-wwdc .tile-image .image-wwdc {
-		background-image: url("img/tile_watchos7__fs1gp8e4poq6_medium_2x.jpg");
-	}
-}
-
-@media only screen and (min-width: 735px) and (max-width: 1068px) and (max-width: 734px) {
-	.section-options .tile-wwdc .tile-image .image-wwdc {
-		background-image: url("img/tile_watchos7__fs1gp8e4poq6_small.jpg");
-		background-size: cover;
-	}
-}
+} */
 
 @media only screen and (min-width: 735px) and (max-width: 1068px) and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
 	only screen and (min-width: 735px) and (max-width: 1068px) and (max-width: 734px) and (min-resolution: 1.5dppx),
@@ -308,10 +137,6 @@
 	padding: 0 63px 0 89px;
 }
 
-/* .section-more .tile-apple-pay .violator {
-	margin-bottom: 35px;
-} */
-
 .section-more .tile-apple-pay .image-apple-pay-logo {
 	width: 68px;
 	height: 29px;
@@ -322,11 +147,7 @@
 
 .section-more .tile-apple-pay .tile-image {
 	display: flex;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
 	justify-content: center;
-	-webkit-box-align: center;
-	-ms-flex-align: center;
 	align-items: center;
 }
 
@@ -389,24 +210,7 @@
 @media only screen and (max-width: 734px) and (max-width: 1068px) {
 	.holiday-2020__image {
 		background-repeat: no-repeat;
-		/* background-image: url("img/aos_holiday_watch_family_hero__d6nskvoyidqq_medium.jpg"); */
 		background-image: url("img/aos_holiday_watch_family_hero__d6nskvoyidqq_medium_2x.jpg");
 		background-size: contain;
 	}
 }
-
-/* @media only screen and (max-width: 734px) and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
-	only screen and (max-width: 734px) and (max-width: 1068px) and (min-resolution: 1.5dppx),
-	only screen and (max-width: 734px) and (max-width: 1068px) and (min-resolution: 144dpi) {
-	.holiday-2020__image {
-		background-image: url("img/aos_holiday_watch_family_hero__d6nskvoyidqq_medium_2x.jpg");
-	}
-} */
-
-/* @media only screen and (max-width: 734px) and (max-width: 1068px) {
-	.holiday-2020__image::after {
-		content: "";
-		display: block;
-		padding-bottom: 96.2963%;
-	}
-} */
