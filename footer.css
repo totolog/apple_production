@@ -4,16 +4,12 @@
     font-weight: 100;
 }
 
-#ac-globalfooter {
+/* #ac-globalfooter {
     font-weight: normal;
-    -webkit-text-size-adjust: 100%;
-    -moz-text-size-adjust: 100%;
-    -ms-text-size-adjust: 100%;
     text-size-adjust:100%
-}
+} */
 
 #ac-globalfooter, #ac-globalfooter:before, #ac-globalfooter:after, #ac-globalfooter *, #ac-globalfooter * :before, #ac-globalfooter * :after {
-    -webkit-box-sizing: content-box;
     box-sizing: content-box;
     margin: 0;
     padding: 0;
@@ -215,15 +211,8 @@ h1 #ac-globalfooter sup, h2 #ac-globalfooter sup, h3 #ac-globalfooter sup {
     font-size: 14px;
     line-height: 1.42859;
     font-weight: 400;
-    letter-spacing: -.016em;
-    font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Apple Legacy Chevron", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -ms-flex-wrap: wrap;
     flex-wrap: wrap;
-    -webkit-box-pack: center;
-    -ms-flex-pack: center;
     justify-content: center;
     padding-bottom: 56px;
     text-align:center
@@ -559,10 +548,6 @@ h1 #ac-globalfooter sup, h2 #ac-globalfooter sup, h3 #ac-globalfooter sup {
 
 .ac-theme-dark #ac-globalfooter .ac-gf-buystrip-info-cta, #ac-globalfooter.ac-globalfooter-dark .ac-gf-buystrip-info-cta {
     color:#2997ff
-}
-
-#ac-globalfooter.no-js .ac-gf-buystrip-info-cta-chat {
-    display:none
 }
 
 @media only screen and (max-width: 480px) {
@@ -959,10 +944,7 @@ h1 #ac-globalfooter sup, h2 #ac-globalfooter sup, h3 #ac-globalfooter sup {
 #ac-globalfooter .ac-gf-directory {
     font-size: 12px;
     font-weight: 400;
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -ms-flex-wrap: nowrap;
     flex-wrap: nowrap;
     padding-top:20px
 }
@@ -973,9 +955,6 @@ h1 #ac-globalfooter sup, h2 #ac-globalfooter sup, h3 #ac-globalfooter sup {
 
 @media only screen and (max-width: 767px) {
     #ac-globalfooter .ac-gf-directory {
-        -webkit-box-orient: vertical;
-        -webkit-box-direction: normal;
-        -ms-flex-direction: column;
         flex-direction:column
     }
 }

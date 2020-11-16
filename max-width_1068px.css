@@ -1,44 +1,38 @@
 @media only screen and (max-width: 1068px) and (min-width: 768px) {
-	.section-shared-compare .compare-item-se .compare-item-image {
+	.second-section .match-goods-se .match-goods-img {
 		width: 162px;
 		height: 192px;
 		background-size: 162px 192px;
 		background-image: url(img/compare_se__crebhd9hhdea_large_2x.jpg);
     }
-    .section-shared-compare .compare-item-series-3 .compare-item-image {
+    .second-section .match-goods-series-3 .match-goods-img {
 		width: 156px;
 		height: 192px;
 		background-size: 156px 192px;
 		background-image: url(img/compare_s3__clzj8ukygo5e_large_2x.jpg);
     }
-    .section-shared-compare .compare-item-series-6 .compare-item-image {
+    .second-section .match-goods-series-6 .match-goods-img {
 		width: 165px;
 		height: 192px;
 		background-size: 165px 192px;
 		background-image: url(img/compare_s6__evsi0wlzp4ya_large_2x.jpg);
     }
-    .section.section-models .tile-price {
+    .section.first-section .goods-price {
 		margin: 14px auto 30px;
     }
-    .tile-series-6 .tile-content {
+    .goods-series-6 .goods-content {
 		padding: 74px 50px 73px;
     }
-    .tile-series-6 .tile-headline {
-		margin-top: 0.8em;
-    }
-    .tile-se .tile-headline {
-		margin-top: 0.8em;
-    }
-    .section.section-models .tile.tile-se .tile-content {
+    .section.first-section .goods.goods-se .goods-content {
 		padding: 74px 0 73px;
     }
-    .section-more .tile-one .tile-image {
+    /* .section-more .goods-one .goods-image {
 		padding-right: 59px;
-    }
-    .buystrip-elevated .buystrip-items {
+    } */
+    .buy-container-top .get-goods-items {
 		font-size: 17px;
     }
-    .section-more .tile-one .tile-image .image-one {
+    .section-more .goods-one .goods-image .image-one {
 		width: 253px;
 		height: 225px;
 		background-size: 253px 225px;
@@ -53,42 +47,42 @@
 		background-size: 227px 323px;
 		background-image: url("img/tile_watch_s6__bbw92knen8mq_large_2x.jpg");
     }
-    .section-options .tile-wwdc .tile-image .image-wwdc {
+    .third-section .goods-diff .goods-image .goods-diff-img {
 		background-size: 702px 446px;
 		background-image: url("img/tile_watchos7__fs1gp8e4poq6_large_2x.jpg");
     }
-    .section-more .tile-apple-pay {
+    .section-more .goods-apple-pay {
 		padding: 0 20px 0 30px;
     }
-    .section-more .tile-apple-pay .image-apple-pay-logo {
+    .section-more .goods-apple-pay .pasmo-logo-img {
 		width: 54px;
 		height: 23px;
 		background-size: 54px 23px;
 		background-repeat: no-repeat;
 		background-image: url("img/logo__b983zltyih5y_large_2x.png");
     }
-    .section-more .tile-apple-pay .tile-image {
+    .section-more .goods-apple-pay .goods-image {
 		padding-left: 25px;
     }
-    .section-more .tile-apple-pay .tile-image .image-apple-pay {
+    .section-more .goods-apple-pay .goods-image .pasmo-img {
 		width: 340px;
 		height: 416px;
 		background-size: 340px 416px;
 		background-repeat: no-repeat;
 		background-image: url("img/tile__b1uni0uggqia_small_2x.jpg");
     }
-    .section-more .tile-apple-pay .tile-content .tile-content-wrapper {
+    .section-more .goods-apple-pay .goods-content .goods-content-wrapper {
 		padding-left: 40px;
     }
-    .tile-apple-pay .tile-subheadline {
+    .goods-apple-pay .pasmo-first-text {
 		font-size: 25px;
 		font-weight: 600;
     }
-    .typography-tile-copy {
+    .pasmo-first-text {
 		font-size: 14px;
 		font-weight: 400;
     }
-    .holiday-2020__image {
+    .gift-goods-img {
 		width: 297px;
 		height: 286px;
 		background-size: 297px 286px;
@@ -96,7 +90,7 @@
 		background-image: url("img/aos_holiday_watch_family_hero__d6nskvoyidqq_small_2x.jpg");
 		margin: 0 auto;
 	}
-	.section-more .tile-one .image-one-logo {
+	.section-more .goods-one .one-logo-img {
         width: 100%;
         height: 20px;
         background-size: contain;
@@ -104,67 +98,51 @@
 		background-image: url("img/logo-apple-one__cwtz6e3tcscy_large_2x.png");
 		background-position: center;
 	}
-	.image-three-rings {
+	.three-rings-img {
         width: 277px;
         height: 279px;
         background-size: 277px 279px;
         background-repeat: no-repeat;
 	}
-	.image-apple-music-logo {
+	.apple-music-logo {
         width: 90px;
         height: 15px;
         background-size: 60px 15px;
         background-repeat: no-repeat;
 	}
-	.section-compare .tile-content-wrapper {
+	.section-compare .goods-content-wrapper {
         width:unset
 	}
-	.section-compare .tile-headline {
-        font-size: 40px;
-        line-height: 1.1;
-        font-weight: 600;
-        letter-spacing: 0em;
-	}
-	.section-compare .tile-headline {
-        font-size: 32px;
-        line-height: 1.125;
-        font-weight: 600;
-        letter-spacing: .004em;
-	}
-	
 
-	.holiday-2020__content--copy {
+	.gift-small-text {
         margin-top: 20px;
         margin-bottom:20px
 	}
-	.holiday-2020__image {
+	.gift-goods-img {
         width: 297px;
         height: 286px;
         background-size: 297px 286px;
         background-repeat: no-repeat;
 	}
-	.holiday-2020__image {
+	.gift-goods-img {
         margin-top:0
 	}
-	.holiday-2020__image::after {
+	.gift-goods-img::after {
         content: '';
         display: block;
         padding-bottom:96.2963%
 	}
-	.tile-mothers-day .copy-content {
-        margin-left:5px
-	}
-	.section-options .tile-wwdc .tile-content {
+	.third-section .goods-diff .goods-content {
         margin-top:-210px
 	}
-	.section-options .tile-wwdc .tile-content .tile-content-wrapper {
+	.third-section .goods-diff .goods-content .goods-content-wrapper {
         padding-bottom:20px
 	}
-	.section-options .tile-wwdc .tile-image .image-wwdc {
+	.third-section .goods-diff .goods-image .goods-diff-img {
         left: 50%;
         margin-left:-351px
 	}
-	.section-essentials .section-headline {
+	.fourth-section .applewatch-title {
         font-size: 40px;
         line-height: 1.15;
         font-weight: 600;
@@ -172,32 +150,28 @@
 		padding-bottom: 0;
         padding-top:0;
 	}
-	.section-essentials .tile-bands .image-bands-winter {
+	.fourth-section .goods-bands .new-band-img {
         width: 362px;
         height: 290px;
         background-size: 362px 290px;
         background-repeat: no-repeat;
         background-image: url("img/tile_bands_winter__dr3z2qgi0z2a_large_2x.jpg")
 	}
-	.tile-airpods .tile-image {
+	.goods-airpods .goods-image {
         padding:16px 0
 	}
-	.section-buystrip .buystrip-item-content {
-        padding-left: 18px;
-        padding-right:18px
-	}
-	.tile-apple-card .tile-content-wrapper {
+	.goods-apple-card .goods-content-wrapper {
         padding-top:65px
 	}
-	.section-more .tile-one .tile-image {
-        padding-left:25px;
+	.section-more .goods-one .goods-image {
+        padding-left:60px;
         margin:86px 0 71px;
 	}
-	.section-more .tile-one .tile-content {
+	.section-more .goods-one .goods-content {
         margin-top: 10px;
         margin-right:25px
 	}
-	.section-more .tile-one .tile-content .tile-content-wrapper p.tile-copy {
+	.section-more .goods-one .goods-content .goods-content-wrapper p.goods-copy {
         max-width: 300px;
         margin-left: auto;
 		margin-right:auto;
@@ -206,36 +180,64 @@
         font-weight: 400;
         letter-spacing: .0075em;
 	}
-	.section-more .tile-one .tile-cta {
+	.section-more .goods-one .goods-for-link {
         margin:14px 15px 15px
 	}
-	.tile-three-rings {
+	.goods-three-rings {
         padding:35px 0
 	}
-	.tile-three-rings .tile-content-wrapper {
+	.goods-three-rings .goods-content-wrapper {
         width:310px
 	}
-	.tile-discount .tile-content {
-        width:285px
+	.goods-discount .goods-content {
+        width:400px
 	}
-	.acmi-ribbon .ribbon-content {
+	.base .base-content {
         max-width:790px
 	}
 	
-	.typography-headline {
-        font-size: 40px;
+	.goods-big-text {
+        font-size: 26px;
         font-weight: 600;
 	}
-	.section.section-models .tile-copy {
+	.section.first-section .goods-copy {
         margin-top:10px
 	}
-	.section.section-models .tile.tile-se {
+	.section.first-section .goods.goods-se {
         padding:50px 0 10px 0
 	}
-	.section-more > .section-headline {
+	.section-more > .applewatch-title {
         font-size: 40px;
-        line-height: 1.15;
         font-weight: 600;
-        letter-spacing: -.025em;
-    }
+	}
+	.goods-top-title, .goods-bands .goods-top-title, .goods-airpods .goods-top-title, .airpods-only-you .goods-top-title, .goods-three-rings .goods-top-title {
+        font-size: 40px;
+        font-weight: 600;
+	}
+	.third-section .goods-diff .goods-image .goods-diff-img {
+        width: 702px;
+        height: 446px;
+        background-size: 702px 446px;
+        background-repeat: no-repeat;
+	}
+	.third-section .gift-img-wrapper {
+		width: 50%;
+	}
+	/* .goods-content-wrapper {
+        width:400px;
+	} */
+	.goods-reason .goods-reason-image {
+		margin-left: 4%;
+	}
+	.buy-container-top .get----item-title {
+		font-size: 18px;
+	}
+	.get----items .get---small-text {
+		font-size: 13px;
+	}
+	.section-more .goods-one .goods-image .one-img {
+		width: 253px;
+		height: 225px;
+		background-size: 253px 225px;
+	}
 }
